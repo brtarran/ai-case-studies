@@ -1,7 +1,37 @@
 ---
-title: "AI in the Screen Sector: Case Studies"
+pagetitle: "AI in the Screen Sector: Case Studies"
+page-layout: custom
+section-divs: false
+toc: false
 ---
 
-This is a Quarto website.
+::: {.report-banner}
+::: {.content-block .py-4 .px-4}
+::: {.report-text}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# AI in the Screen Sector
+
+### Tracking the adoption of generative AI across film, television and video games
+In June 2025, the CoSTAR Foresight Lab published 'AI in the Screen Sector: Perspectives and Paths Forward' -- the first UK-wide exploration of the overall impact of generative artificial intelligence (AI) on the full breadth of the UK’s screen sector.
+
+On this site, you can:
+
+- Review case studies of generative AI applications
+- Explore their links to our report's key recommendations
+- Share your own experiences of AI use and experimentation
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-4}
+
+[Case studies](index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-4 .mb-2}
+
+[Recommendations](about.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 
+:::
+:::
+:::

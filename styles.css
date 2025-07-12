@@ -1,4 +1,4 @@
-/*-- navbar --*/
+/*-- navbar styling --*/
 
 .navbar {
   padding-top: 0;
@@ -6,14 +6,6 @@
   font-family: 'Montserrat';  
   font-size: 1em;
   background-color: #414141;
-}
-
-.navbar-toggler {
-  color: #ff9e0a;
-}
-
-[data-bs-theme=dark] .navbar-toggler-icon {
-  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
 .navbar-title {
@@ -41,4 +33,51 @@
 
 #quarto-header {
   border-bottom: 3px solid #ff9e0a;
+}
+
+/*-- hamburger menu --*/
+.navbar-toggler {
+  color: #ff9e0a;
+}
+
+[data-bs-theme=dark] .navbar-toggler-icon {
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/*-- homepage styling --*/
+.report-banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #414141;
+}
+
+.report-banner .content-block {
+  display: flex;
+  flex-direction: row;
+}
+
+.report-banner .content-block .report-text {
+  color: white;
+  width: 80%
+}
+
+.report-banner h1 {
+    margin-top: 1rem;
+}
+
+
+/*-- buttons --*/
+.btn-action {
+  color: white;
+  background-color: #ff9e0a;
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+  font-weight: 400;
+}
+
+.btn-action:hover {
+  background-color: white;
+  color: #414141;
 }
