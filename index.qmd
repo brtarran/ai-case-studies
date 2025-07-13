@@ -5,14 +5,14 @@ section-divs: false
 toc: false
 ---
 
-::: {.report-banner}
+::: {.banner .dark-background}
 ::: {.content-block .py-4 .px-4}
-::: {.report-text}
+::: {.intro-text}
 
 # AI in the Screen Sector
 
 ### Tracking the adoption of generative AI across film, television and video games
-In June 2025, the CoSTAR Foresight Lab published 'AI in the Screen Sector: Perspectives and Paths Forward' -- the first UK-wide exploration of the overall impact of generative artificial intelligence (AI) on the full breadth of the UK’s screen sector.
+In June 2025, the CoSTAR Foresight Lab published *AI in the Screen Sector: Perspectives and Paths Forward* -- the first UK-wide exploration of the overall impact of generative artificial intelligence (AI) on the full breadth of the UK’s screen sector.
 
 On this site, you can:
 
@@ -28,10 +28,40 @@ On this site, you can:
 :::
 ::: {.g-col-12 .g-col-sm-4 .mb-2}
 
-[Recommendations](about.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+[Route map](about.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
 
 ::: 
 ::: 
+:::
+:::
+:::
+
+::: {.banner .light-background}
+::: {.content-block .py-4 .px-4}
+::: {.grid .gap-6 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-4}
+
+[![](images/cover.png)](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf)
+
+:::
+::: {.g-col-12 .g-col-sm-8}
+::: {.report-text}
+
+# About the report
+
+The rapid development of generative AI is affecting how stories are told, how content is made, and how audiences engage with screen media. Within the UK’s film, television and video games sectors, there is considerable interest in the possibilities that AI might offer – but also a need to understand where and how these technologies are being used, and their likely impacts, both positive and negative. 
+
+Based on an analysis of available data, together with targeted expert interviews and industry surveys, *AI in the Screen Sector: Perspectives and Paths Forward* surfaces key insights into the existing and potential effects of generative AI while offering a set of high-level recommendations designed to ensure that the UK remains a global leader in screen production and creative innovation.
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+:::
+:::
+:::
 :::
 :::
 :::

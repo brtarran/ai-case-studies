@@ -44,26 +44,41 @@
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-/*-- homepage styling --*/
-.report-banner {
-  position: relative;
+/*-- banner styling --*/
+.banner {
   display: flex;
-  justify-content: center;
-  background-color: #414141;
+  justify-content: flex-start;
 }
 
-.report-banner .content-block {
+.banner .content-block {
   display: flex;
   flex-direction: row;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 auto;
 }
 
-.report-banner .content-block .report-text {
+.banner .content-block .intro-text {
   color: white;
-  width: 80%
 }
 
-.report-banner h1 {
+.banner .content-block .report-text {
+  color: #414141;
+}
+
+.banner img {
+  height: auto;
+  max-height: 458px;
+  width: auto;
+  object-fit: contain;
+}
+
+.banner h1 {
     margin-top: 1rem;
+}
+
+.banner .content-block .report-text h1{
+    margin-top: 0rem;
 }
 
 
@@ -80,4 +95,14 @@
 .btn-action:hover {
   background-color: white;
   color: #414141;
+}
+
+/*-- background styles --*/
+
+.dark-background {
+  background-color: #414141;
+}
+
+.light-background {
+  background-color: #f0eeeb;
 }
