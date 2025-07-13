@@ -1,0 +1,244 @@
+/*-- navbar styling --*/
+
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: 'Montserrat';  
+  font-size: 1em;
+  background-color: #414141;
+}
+
+.navbar-logo {
+  max-height: 100px;
+  width: auto;
+  align-items: baseline;
+  padding: 1rem;
+}
+
+.navbar-title {
+  color: white;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  font-weight: 400;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ff9e0a;
+  font-weight: 400;
+}
+
+.navbar-nav .show>.nav-link, .navbar-nav .active>.nav-link, .navbar-nav .nav-link.active {
+  color: #ff9e0a;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    color: white;
+}
+
+#quarto-header {
+  border-bottom: 3px solid #ff9e0a;
+}
+
+/*-- hamburger menu --*/
+.navbar-toggler {
+  color: #ff9e0a;
+}
+
+[data-bs-theme=dark] .navbar-toggler-icon {
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/*-- banner styling --*/
+.banner {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.content-block {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.intro-text {
+  color: white;
+}
+
+.report-text {
+  color: #414141;
+}
+
+.banner img {
+  height: auto;
+  max-height: 458px;
+  width: auto;
+  object-fit: contain;
+}
+
+.banner h1 {
+    margin-top: 1rem;
+}
+
+.report-text h1{
+    margin-top: 0rem;
+}
+
+
+/*-- buttons --*/
+.btn-action {
+  color: white;
+  background-color: #ff9e0a;
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+  font-weight: 400;
+}
+
+.btn-action:hover {
+  background-color: white;
+  color: #414141;
+}
+
+/*-- background styles --*/
+
+.dark-background {
+  background-color: #414141;
+}
+
+.light-background {
+  background-color: #f0eeeb;
+}
+
+
+/*-- tab styling --*/
+.tab-banner {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tab-banner .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  border: none;
+  border-bottom: 2px solid #ff9e0a;
+  color: #ff9e0a;
+  background-color: transparent;
+}
+
+.tab-banner .nav-link {
+  color: white;
+  background-color: transparent;
+}
+
+.tab-banner .nav-pills button {
+  width: 200px;
+}
+
+.tab-content {
+  border: none;
+  padding: 0;
+}
+
+.tab-banner h1 {
+    margin-top: 0;
+    margin-right: 40px;
+    border-bottom: none;
+    margin-bottom: 0.5rem;
+}
+
+/*-- pullquotes --*/
+.pullquote-container {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.pullquote-grid {
+  padding-bottom: 1.8em;
+}
+
+.pullquote p {
+  font-weight: 500;
+  font-size: calc(1.345rem + 0.85vw);
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2;
+}
+
+@media (min-width: 1200px) {
+.pullquote p {
+    font-size: 2rem;
+}
+}
+
+.pullquote img {
+  margin: 0;
+}
+
+/*-- quarto titles --*/
+.quarto-title-banner {
+    margin-bottom: 1em;
+    color: #414141;
+    background: #f0eeeb;
+}
+
+#title-block-header {
+    margin-block-end: 1rem;
+    position: relative;
+    margin-top: -1px;
+    margin-bottom: 1.8em;
+    border-bottom: 3px solid #ff9e0a;
+    background-color: #f0eeeb;
+}
+
+.quarto-title-meta {
+  margin-bottom: 2.5em;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta-heading {
+  margin-top: 1em;
+  opacity: 0.8;}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta-contents {
+  opacity: 1;
+}
+
+.quarto-title-banner h1, .quarto-title-banner .h1,
+.quarto-title-banner p, .quarto-title-banner .p {
+  color: black
+}
+
+.quarto-title .quarto-categories .quarto-category {
+    opacity: 1;
+}
+
+.quarto-title .quarto-categories {
+  display: flex;
+  column-gap: 0.4em;
+  padding-bottom: 0.5em;
+  margin-top: 1.9em;
+}
+
+body.nav-fixed {
+  padding-top: auto;
+  background-color: #f0eeeb;
+}
+
+#quarto-content {
+  background-color: #f0eeeb;
+}
+
+#quarto-content>* {
+  padding-top: 0;
+}
+
+/*-- main content --*/
+
+
+h2, .h2 {
+    border-bottom: 1px solid #ff9e0a;
+    padding-bottom: .5rem;
+}
