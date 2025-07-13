@@ -17,18 +17,18 @@ In June 2025, the CoSTAR Foresight Lab published *AI in the Screen Sector: Persp
 On this site, you can:
 
 - Review case studies of generative AI applications
-- Explore their links to our report's key recommendations
+- Explore their links to our report's strategic roadmap
 - Share your own experiences of AI use and experimentation
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-4}
 
-[Case studies](index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+[Case studies](case-studies/posts/2025-07-13-dead-meat/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
 
 :::
 ::: {.g-col-12 .g-col-sm-4 .mb-2}
 
-[Route map](about.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+[Roadmap](#roadmap){.btn-action .btn .btn-lg .w-100 role="button"}
 
 ::: 
 ::: 
@@ -62,6 +62,130 @@ Based on an analysis of available data, together with targeted expert interviews
 :::
 :::
 :::
+:::
+:::
+:::
+
+::: {.tab-banner .dark-background}
+::: {.content-block .py-4 .px-4}
+::: {.intro-text}
+
+::: {.grid .gap-6}
+::: {.g-col-3}
+
+# Roadmap
+
+:::
+::: {.g-col-9}
+
+<ul class="nav nav-pills d-flex flex-wrap" id="roadmap-tab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="frameworks-tab" data-bs-toggle="tab" data-bs-target="#frameworks" type="button" role="tab" aria-controls="frameworks" aria-selected="true">Frameworks</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="support-tab" data-bs-toggle="tab" data-bs-target="#support" type="button" role="tab" aria-controls="support" aria-selected="false">Targeted support</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="growth-tab" data-bs-toggle="tab" data-bs-target="#growth" type="button" role="tab" aria-controls="growth" aria-selected="false">Growth</button>
+  </li>
+</ul>
+
+:::
+::: {.g-col-11}
+
+Our roadmap presents three key strategic outcomes -- frameworks, targeted support, and growth -- that should be delivered over the next three years, alongside high-level recommendations to guide the sector towards these outcomes. 
+
+:::
+:::
+
+<div class="tab-content mt-2" id="roadmap-tabcontent">
+
+<div class="tab-pane fade  show active" id="frameworks" role="tabpanel" aria-labelledby="frameworks-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-4}
+
+#### Rights
+
+Set the UK in a position as a **world-leading IP licensing market**.
+
+:::
+::: {.g-col-4}
+
+#### Carbon
+
+Embed data-driven guidelines to **minimise carbon impact of AI**.
+
+:::
+::: {.g-col-4}
+
+#### Responsible AI
+
+Support cross-discipline collaboration to **deliver market-preferred, ethical AI products**.
+
+:::
+:::
+
+</div>
+
+<div class="tab-pane fade" id="support" role="tabpanel" aria-labelledby="support-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-4}
+
+#### Insight
+
+Enable UK Creative Industries strategies through **world-class intelligence**.
+
+:::
+::: {.g-col-4}
+
+#### Skills
+
+Develop the sector to **build skills complementary  to AI**.
+
+:::
+::: {.g-col-4}
+
+#### Public transparency
+
+Drive increased **public understanding of AI use in screen content**.
+
+:::
+:::
+
+</div>
+
+<div class="tab-pane fade" id="growth" role="tabpanel" aria-labelledby="growth-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-4}
+
+#### Sector adaptation
+
+Boost the UK’s strong digital content production sector to **adapt and grow**.
+
+:::
+::: {.g-col-4}
+
+#### Investment
+
+Unlock investment to **propel the UK’s high-potential creative technology sector**.
+
+:::
+::: {.g-col-4}
+
+#### Independent creation
+
+Empower UK creatives to **develop AI-supported independent creativity**.
+
+:::
+:::
+
+</div>
+
+</div>
+
 :::
 :::
 :::

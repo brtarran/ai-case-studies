@@ -4,9 +4,11 @@ project:
 website:
   title: "AI in the Screen Sector: Case Studies"
   navbar:
-    left:
+    logo: images/header-logos.png
+    title: false
+    right:
       - href: index.qmd
-        text: Home
+        text: Overview
       - about.qmd
 
 format:
