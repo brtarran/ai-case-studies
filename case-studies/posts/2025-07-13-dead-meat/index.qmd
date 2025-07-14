@@ -17,7 +17,11 @@ toc: false
 Meaning Machine is a Bristol-based game developer and the creator of an upcoming murder mystery video game, *Dead Meat*, in which players assume the role of a detective interrogating suspects. The technological twist on this setup is that players can ask game characters anything they like and the characters will answer back. The game uses generative AI to shape dialogue in response to the player’s questions, and players have the option to interact through voice or keyboard input.
 
 :::{.column-page}
-![](images/dead-meat-screenshot.jpg)
+![](images/dead-meat-screenshot.jpg){fig-alt="Screenshot from Dead Meat. A mostly black-and-white image, with one of the game's suspect characters angrily waving their finger and balling their fist. On the right of the image, there is a transcript of the suspect's interrogation."}
+:::
+
+::: figure-caption
+Screenshot from *Dead Meat*, copyright Meaning Machine.
 :::
 
 ## Application of AI 
@@ -32,8 +36,12 @@ Meaning Machine is a Bristol-based game developer and the creator of an upcoming
 :::
 :::
 ::: {.g-col-12 .g-col-sm-3}
-![](images/headshot.PNG)
-*Thomas Keane, co-founder and creative lead, Meaning Machine speaking at Game Developers Conference, May 1, 2025*
+![](images/headshot.PNG){fig-alt="Screengrab of Thomas Keane, Meaning Machine co-founder,speaking at Game Developers Conference"}
+
+::: figure-caption
+Thomas Keane, co-founder and creative lead, Meaning Machine speaking at Game Developers Conference, May 1, 2025
+:::
+
 :::
 :::
 :::
@@ -42,14 +50,18 @@ Meaning Machine is a Bristol-based game developer and the creator of an upcoming
 ## Applying the CoSTAR Foresight Lab AI roadmap
 Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
 
-### How this case study aligns with the roadmap
-- Switching from using large language models in the cloud to a small language model that runs on-device can be a positive step towards **carbon minimisation**, as it avoids the cost and energy use associated with LLM inference and cloud compute.
+#### How this case study aligns with the roadmap
+- **Carbon**
+: Switching from using large language models in the cloud to a small language model that runs on-device can be a positive step towards carbon minimisation, as it avoids the cost and energy use associated with LLM inference and cloud compute.
  
-- Meaning Machine’s partnership with Nvidia demonstrates the sort of cross-discipline collaboration that will help deliver **responsible AI** for the screen sector. The partnership between AI developer and game designer has resulted in an AI solution tailored to the needs of a specific game experience.
+- **Responsible AI**
+: Meaning Machine’s partnership with Nvidia demonstrates the sort of cross-discipline collaboration that will help deliver responsible AI for the screen sector. The partnership between AI developer and game designer has resulted in an AI solution tailored to the needs of a specific game experience.
 
-- Meaning Machine’s AI innovations have been supported by funding from the MyWorld programme, illustrating one way in which **investment drives the emergence of new creative technologies** and new creative technology businesses.
+- **Investment**
+: Meaning Machine’s AI innovations have been supported by funding from the MyWorld programme, illustrating one way in which investment drives the emergence of new creative technologies and new creative technology businesses.
 
-- *Dead Meat* is an example of **UK creators leveraging AI technologies** to pursue new storytelling ideas, formats and concepts. 
+- **Independent creation**
+: *Dead Meat* is an example of UK creators leveraging AI technologies to pursue new storytelling ideas, formats and concepts. 
 
 ## Resources
 
