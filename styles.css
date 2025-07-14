@@ -65,6 +65,12 @@
   margin: 0 auto;
 }
 
+@media (max-width: 770px) { 
+.content-block {
+  width: auto;
+  }
+}
+
 .intro-text {
   color: white;
 }
@@ -134,19 +140,27 @@
 }
 
 .tab-banner .nav-pills button {
-  width: 200px;
+  width: 80%;
+}
+
+@media (max-width: 770px) { 
+  .tab-banner .nav-pills button {
+    width: auto;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .stack-xs {
+    flex-direction: column !important;
+  }
+  .tab-banner .nav-link {
+  padding-left: 0;
+}
 }
 
 .tab-content {
   border: none;
   padding: 0;
-}
-
-.tab-banner h1 {
-    margin-top: 0;
-    margin-right: 40px;
-    border-bottom: none;
-    margin-bottom: 0.5rem;
 }
 
 /*-- pullquotes --*/
@@ -241,4 +255,47 @@ body.nav-fixed {
 h2, .h2 {
     border-bottom: 1px solid #ff9e0a;
     padding-bottom: .5rem;
+}
+
+.figure-caption {
+  color: #414141;
+}
+
+blockquote {
+    border-left: 1px solid #ff9e0a;
+}
+
+blockquote p {
+    color: #414141;
+}
+
+p > a {
+  color: #000000;
+  text-decoration-color: #ff9e0a;
+}
+
+li a {
+  color: #000000;
+  text-decoration-color: #ff9e0a;
+}
+
+dd a {
+  color: #000000;
+  text-decoration-color: #ff9e0a;
+}
+
+/*-- listings --*/
+
+div.quarto-post a {
+    color: black;
+}
+
+div.quarto-post .listing-categories .listing-category {
+    color: #414141;
+    border: solid 1px #414141;
+    opacity: 1;
+}
+
+div.quarto-post .metadata {
+    font-family: 'Montserrat';  
 }

@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://brtarran.github.io/ai-case-studies/index.html</loc>
-    <lastmod>2025-07-13T15:42:29.244Z</lastmod>
+    <lastmod>2025-07-14T18:11:23.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/ai-case-studies/case-studies/posts/2025-07-13-dead-meat/index.html</loc>
+    <lastmod>2025-07-14T18:24:20.168Z</lastmod>
   </url>
   <url>
     <loc>https://brtarran.github.io/ai-case-studies/about.html</loc>
     <lastmod>2025-07-13T15:38:56.835Z</lastmod>
   </url>
   <url>
-    <loc>https://brtarran.github.io/ai-case-studies/case-studies/posts/2025-07-13-dead-meat/index.html</loc>
-    <lastmod>2025-07-13T15:38:56.850Z</lastmod>
+    <loc>https://brtarran.github.io/ai-case-studies/case-studies/index.html</loc>
+    <lastmod>2025-07-14T18:06:13.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/ai-case-studies/case-studies/posts/2025-07-14-ada-eden/index.html</loc>
+    <lastmod>2025-07-14T18:11:00.691Z</lastmod>
   </url>
 </urlset>
