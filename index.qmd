@@ -23,7 +23,7 @@ On this site, you can:
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-4}
 
-[Case studies](case-studies/posts/2025-07-13-dead-meat/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+[Case studies](case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
 
 :::
 ::: {.g-col-12 .g-col-sm-4 .mb-2}

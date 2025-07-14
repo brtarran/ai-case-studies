@@ -1,0 +1,15 @@
+---
+pagetitle: "Case studies | AI in the Screen Sector: Casebook"
+title: Case studies
+subtitle: Tracking the adoption of generative AI across film, television and video games
+search: false
+listing:
+  contents: 
+  - posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+---

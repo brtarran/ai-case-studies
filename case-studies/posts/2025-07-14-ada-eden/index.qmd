@@ -79,7 +79,7 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-6}
 
-[Find more case studies](/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+[Find more case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
 
 :::
 ::: {.g-col-12 .g-col-sm-6 .mb-2}

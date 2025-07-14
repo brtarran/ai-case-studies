@@ -283,3 +283,19 @@ dd a {
   color: #000000;
   text-decoration-color: #ff9e0a;
 }
+
+/*-- listings --*/
+
+div.quarto-post a {
+    color: black;
+}
+
+div.quarto-post .listing-categories .listing-category {
+    color: #414141;
+    border: solid 1px #414141;
+    opacity: 1;
+}
+
+div.quarto-post .metadata {
+    font-family: 'Montserrat';  
+}
