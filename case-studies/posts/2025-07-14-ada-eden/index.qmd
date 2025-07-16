@@ -44,7 +44,7 @@ In their paper, Sun and colleagues propose the term “AI-Native games” to cat
 ![](images/icon.png){fig-alt="1001 Nights game icon. A pixel art rendering of a book with a purple cover featuring a golden crescent moon and stars."}
 
 ::: figure-caption
-Quote taken from Ada Eden's AI content disclosure statement for *1001 Nights*. Game icon is copyright Yuqian Sun / Ada Eden.
+Quote taken from Ada Eden's AI content disclosure statement for *1001 Nights*. Game icon (above) is copyright Yuqian Sun / Ada Eden.
 :::
 
 :::
