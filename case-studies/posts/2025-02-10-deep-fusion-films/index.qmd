@@ -1,0 +1,91 @@
+---
+title: "Deep Fusion Films"
+description: "This is a demonstration of a possible case study, building off of the 'AI in the Screen Sector: Perspectives and Paths Forward' report. It focuses on one of the example projects mentioned briefly in the report." 
+categories:
+  - Responsible AI
+  - Investment
+author: David Johnston
+date: 02/10/2025
+toc: false
+# image:
+# image-alt:
+---
+
+## Background
+[Deep Fusion Films](https://www.deepfusionfilms.com/) are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company's first production [_Gerry Anderson: A Life Uncharted_](https://anderson-entertainment.co.uk/content/gerry-anderson-a-life-uncharted/) used AI to explore the personal story of _Thunderbirds_ creator Gerry Anderson, whilst [_Virtually Parkinson_](https://www.broadcastnow.co.uk/industry-opinions/whats-the-point-of-virtually-parkinson/5199094.article) is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests using AI dialogue and voice synthesis.
+
+
+:::{.column-page}
+![](images/thol-feature.jpg){fig-alt="A mockup of Thol’s user interface - the application is currently in beta testing. The image shows a video timeline with timecodes and a list of sound effects to be added to the timeline."}
+:::
+
+::: figure-caption
+A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence.
+:::
+
+## Application of AI 
+
+_Virtually Parkinson_ is the most high-profile example of Deep Fusion's use of AI, however the company has been using these tools and techniques across their productions.
+
+TODO - more colour on Virtually Parkinson
+
+More recently their focus has shifted to addressing some of the fundamental economic challenges facing TV production by applying new technologies to the problems.
+
+The company has been developing two systems to accelerate their pre-production and planning around new ideas and projects.  Weaver is a system the team have developed to analyse archive material using visual and metadata analysis to help producers identify what kind of stories could be told with the available material. It generates potential concepts, outline three-act structures and illustrative scripts based on the creative briefs provided by the producers. These scripts can then be mocked up with a synthetic voice platform, like [ElevenLabs](https://elevenlabs.io). PaperCut is a tool that creates XML files based on the available archive, newly acquired interview and b-roll footage. 
+
+
+
+::: {.column-page}
+::: {.pullquote-container}
+::: {.grid .gap-6 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-9}
+::: {.pullquote}
+"We need to stop imagining that AI is putting people out of work, the industry is putting people out of work, and (we think) AI is creating opportunities to bring them back in."
+:::
+:::
+::: {.g-col-12 .g-col-sm-3}
+![](images/benjamin_field_headshot.png){fig-alt="Ben Field, Co-Founder & CEO, Deep Fusion Films"}
+
+::: figure-caption
+Ben Field, Co-Founder & CEO, Deep Fusion Films.
+:::
+
+:::
+:::
+:::
+:::
+
+## Applying the CoSTAR Foresight Lab AI roadmap
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+
+#### How this case study aligns with the roadmap
+
+- **Responsible AI**
+Positioning themselves as responsible AI company
+
+- **Insight**
+insight for government
+
+- **Investment**
+The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+
+- **Public transparency**
+Public transparency...
+
+
+## Resources
+
+{{< video https://www.youtube.com/embed/0CK-wsrxbng >}}
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Find more case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 

@@ -21,7 +21,7 @@ The team started working on a product that would automate ‘spotting’, identi
 :::
 
 ::: figure-caption
-A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence.
+A mockup of Thol’s user interface - the application is currently in beta testing.
 :::
 
 ## Application of AI 
@@ -57,25 +57,15 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 
 #### How this case study aligns with the roadmap
 
-- **Carbon**
-Camera Intelligence uses on-device models where practical, minimising the impact of relying on cloud computing for inference (understanding and generation).
-
 - **Responsible AI**
-Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools - “The solution is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kind of complicated editing tools”
+Black Goblin’s focus changed from generating audio to marking up spotting sessions after engaging in user research. The users of their tool, currently in beta, are informed where in the pipeline AI models are being used.
 
 - **Investment**
-Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
-
-- **Sector adaptation**
-The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
-
-- **Public transparency**
-The Camera Intelligence website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see below).
-
+Black Goblin have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round.
 
 ## Resources
 
-{{< video https://www.youtube.com/embed/0CK-wsrxbng >}}
+
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-6}
