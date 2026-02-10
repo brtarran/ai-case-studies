@@ -3,7 +3,8 @@ title: "Deep Fusion Films"
 description: "This is a demonstration of a possible case study, building off of the 'AI in the Screen Sector: Perspectives and Paths Forward' report. It focuses on one of the example projects mentioned briefly in the report." 
 categories:
   - Responsible AI
-  - Investment
+  - Insight
+  - Independent Creation
 author: David Johnston
 date: 02/10/2025
 toc: false
@@ -12,7 +13,7 @@ toc: false
 ---
 
 ## Background
-[Deep Fusion Films](https://www.deepfusionfilms.com/) are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company's first production [_Gerry Anderson: A Life Uncharted_](https://anderson-entertainment.co.uk/content/gerry-anderson-a-life-uncharted/) used AI to explore the personal story of _Thunderbirds_ creator Gerry Anderson, whilst [_Virtually Parkinson_](https://www.broadcastnow.co.uk/industry-opinions/whats-the-point-of-virtually-parkinson/5199094.article) is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests using AI dialogue and voice synthesis.
+[Deep Fusion Films](https://www.deepfusionfilms.com/) are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company's first production [_Gerry Anderson: A Life Uncharted_](https://anderson-entertainment.co.uk/content/gerry-anderson-a-life-uncharted/) used AI to explore the personal story of _Thunderbirds_ creator Gerry Anderson, whilst [_Virtually Parkinson_](https://www.broadcastnow.co.uk/industry-opinions/whats-the-point-of-virtually-parkinson/5199094.article) is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.
 
 
 :::{.column-page}
@@ -25,13 +26,15 @@ A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Cam
 
 ## Application of AI 
 
-_Virtually Parkinson_ is the most high-profile example of Deep Fusion's use of AI, however the company has been using these tools and techniques across their productions.
+_Gerry Anderson: A Life Uncharted_ was the companies first production and came out of experimentation with emerging 'DeepFake' tools to overlay Gerry Anderson's visual appearance onto a body double and create new interview footage with the synthetic character. 
 
-TODO - more colour on Virtually Parkinson
+_Virtually Parkinson_ used synthetic audio generation to explore the idea of an AI system 'interviewing' new guests based on the style, tone, approach and generated voice of Sir Michael Parkinson.
 
-More recently their focus has shifted to addressing some of the fundamental economic challenges facing TV production by applying new technologies to the problems.
+Whilst these are the most high-profile example of Deep Fusion's use of AI, more recently their focus has shifted to addressing some of the fundamental economic challenges facing TV production by applying new technologies to the problems.
 
 The company has been developing two systems to accelerate their pre-production and planning around new ideas and projects.  Weaver is a system the team have developed to analyse archive material using visual and metadata analysis to help producers identify what kind of stories could be told with the available material. It generates potential concepts, outline three-act structures and illustrative scripts based on the creative briefs provided by the producers. These scripts can then be mocked up with a synthetic voice platform, like [ElevenLabs](https://elevenlabs.io). PaperCut is a tool that creates XML files based on the available archive, newly acquired interview and b-roll footage. 
+
+Fields is keen to emphasise that the production is created by a normal sized and skilled team "It's regular production team. It's just that they're working much, much quicker. And they're being able to iterate and be creative in a much more dynamic way."
 
 
 
@@ -61,21 +64,20 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-Positioning themselves as responsible AI company
+Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
 
-- **Insight**
-insight for government
+- **Independent creation**
+Depe Fusion fit into a theme across these case studies -  creators trying to use existing AI productions and solutions and finding them wanting for creative production in the CoSTAR sectors. By building their own tooling and infrastruture they are enabling new workflows for themselves, and maintaining control over their use of the technology.
 
 - **Investment**
 The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
 
-- **Public transparency**
-Public transparency...
-
 
 ## Resources
 
-{{< video https://www.youtube.com/embed/0CK-wsrxbng >}}
+
+- [*Deep Fusion Film's AI Whitepaper*](https://www.deepfusionfilms.com/s/Artificial-Intelligence-in-the-UK-Screen-Industries-A-Practical-White-Paper-November-25.pdf)
+
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-6}
