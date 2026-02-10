@@ -26,7 +26,7 @@ A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Cam
 
 ## Application of AI 
 
-_Gerry Anderson: A Life Uncharted_ was the companies first production and came out of experimentation with emerging 'DeepFake' tools to overlay Gerry Anderson's visual appearance onto a body double and create new interview footage with the synthetic character. 
+_Gerry Anderson: A Life Uncharted_ was the company's first production and came out of experimentation with emerging 'DeepFake' tools to overlay Gerry Anderson's visual appearance onto a body double and create new interview footage with the synthetic character. 
 
 _Virtually Parkinson_ used synthetic audio generation to explore the idea of an AI system 'interviewing' new guests based on the style, tone, approach and generated voice of Sir Michael Parkinson.
 
