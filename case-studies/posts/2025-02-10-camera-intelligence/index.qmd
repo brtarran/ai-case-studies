@@ -43,7 +43,7 @@ Camera Intelligence uses a variety of AI models within their products. This incl
 ::: {.grid .gap-6 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-9}
 ::: {.pullquote}
-“We’re looking to make it easier for people to express themselves, tell their stories. We are very conscious and aware of what we're doing…we’re not here to replace people.”
+“We’re looking to make it easier for people to express themselves, tell their stories. We are very conscious and aware of what we're doing…we’re not here to replace people.” 
 :::
 :::
 ::: {.g-col-12 .g-col-sm-3}
