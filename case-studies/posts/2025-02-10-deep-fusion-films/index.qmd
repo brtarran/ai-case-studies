@@ -64,13 +64,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
+: Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
 
 - **Independent creation**
-Depe Fusion fit into a theme across these case studies -  creators trying to use existing AI productions and solutions and finding them wanting for creative production in the CoSTAR sectors. By building their own tooling and infrastruture they are enabling new workflows for themselves, and maintaining control over their use of the technology.
+: Deep Fusion's story is part of an emerging theme -  creators trying to use existing AI productions and solutions and finding them wanting for creative production in the CoSTAR sectors. By building their own tooling and infrastruture they are enabling new workflows for themselves, and maintaining control over their use of the technology.
 
 - **Investment**
-The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+: The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
 
 
 ## Resources

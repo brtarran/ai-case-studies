@@ -64,19 +64,19 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Carbon**
-Camera Intelligence uses on-device models where practical, minimising the impact of relying on cloud computing for inference (understanding and generation).
+: Caira uses on-device models where practical, minimising the impact of relying on cloud computing for inference (understanding and generation).
 
 - **Responsible AI**
-Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools - “The solution is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kind of complicated editing tools”
+: Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools - “The solution is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kind of complicated editing tools”
 
 - **Investment**
-Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
+: Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
 
 - **Sector adaptation**
-The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+: The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
 
 - **Public transparency**
-The Camera Intelligence website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see below).
+: The product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see below).
 
 
 ## Resources
