@@ -17,7 +17,7 @@ toc: false
 
 
 :::{.column-page}
-![](images/thol-feature.jpg){fig-alt="A mockup of Thol’s user interface - the application is currently in beta testing. The image shows a video timeline with timecodes and a list of sound effects to be added to the timeline."}
+![](images/gerry_anderson_metaphysic.jpg){fig-alt="A screenshot showing the 'DeepFake' process during the production of _Gerry Anderson: A Life Uncharted_."}
 :::
 
 ::: figure-caption
