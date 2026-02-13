@@ -17,6 +17,7 @@ toc: false
 ## Background
 [Camera Intelligence](https://cameraintelligence.com/) is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities, editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.
 
+
 :::{.column-page}
 ![](images/caira_with_woman_in_bg.jpg){fig-alt="A photograph of a woman in a white t-shirt holding Camera Intelligence's 'Caira' product with a wide-angle lens. She is looking at the camera back as if focusing on the photo or videography."}
 :::
@@ -30,7 +31,7 @@ Camera Intelligence uses a variety of AI models within their products. This incl
 
 **LLMs** The team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example “take a photo in five seconds”, iterating on an idea “that looks great, but could you add a little more contrast”, and complex requests “can you make it look like kodak vision”.
 
-**Generative Editing** The product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana - for example unwanted elements from a scene using simple voice prompts.
+**Generative Editing** The product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana - for example, removing unwanted elements from a scene using simple voice prompts.
 
 **Agentic Workflows** Camera Intelligence looks to move beyond simple command and response to more complex capabilities. As Vishal explains:
 
