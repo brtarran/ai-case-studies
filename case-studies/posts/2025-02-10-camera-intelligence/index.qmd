@@ -19,7 +19,7 @@ toc: false
 
 
 :::{.column-page}
-![](images/caira_with_woman_in_bg.jpg){fig-alt="A photograph of a woman in a white t-shirt holding Camera Intelligence's 'Caira' product with a wide-angle lens. She is looking at the camera back as if focusing on the photo or videography."}
+![](images/caira_with_woman_in_bg.png){fig-alt="A photograph of a woman in a white t-shirt holding Camera Intelligence's 'Caira' product with a wide-angle lens. She is looking at the camera back as if focusing on the photo or videography."}
 :::
 
 ::: figure-caption
@@ -48,7 +48,7 @@ Camera Intelligence uses a variety of AI models within their products. This incl
 :::
 :::
 ::: {.g-col-12 .g-col-sm-3}
-![](images/camera_intelligence_vish.webp){fig-alt="Headshot of Vishal Kumar, Camera Intelligence's co-founder, holding one of their Caira units, pointing it at the camera."}
+![](images/camera_intelligence_vish.png){fig-alt="Headshot of Vishal Kumar, Camera Intelligence's co-founder, holding one of their Caira units, pointing it at the camera."}
 
 ::: figure-caption
 Vishal Kumar, co-founder of Camera Intelligence.
