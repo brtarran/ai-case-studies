@@ -1,5 +1,5 @@
 ---
-title: "Deep Fusion Films"
+title: "Lux Aeterna"
 description: "This is a demonstration of a possible case study, building off of the 'AI in the Screen Sector: Perspectives and Paths Forward' report. It focuses on one of the example projects mentioned briefly in the report." 
 categories:
   - Responsible AI
@@ -13,15 +13,15 @@ toc: false
 ---
 
 ## Background
-[Deep Fusion Films](https://www.deepfusionfilms.com/) are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company's first production [_Gerry Anderson: A Life Uncharted_](https://anderson-entertainment.co.uk/content/gerry-anderson-a-life-uncharted/) used AI to explore the personal story of _Thunderbirds_ creator Gerry Anderson, whilst [_Virtually Parkinson_](https://www.broadcastnow.co.uk/industry-opinions/whats-the-point-of-virtually-parkinson/5199094.article) is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.
 
+[Lux Aeterna](https://www.lavfx.com) is a BAFTA and Emmy award-winning independent visual effects (VFX) studio based in Bristol. They have worked on a range of high-profile projects, including _The Crown_, _Human_, and _The Solar System_. The company has a history of engaging with emerging technologies - they are part of the [MyWorld](https://www.myworld-creates.com), a UKRI funded creative technology programme based around Bristol and Bath. As part of this the team explored Generative AI tools in the context of VFX, experimenting with image generation models to power procedural generation of terrain or buildings, or as input to simulating natural phenomona such as storms or destruction events.
 
 :::{.column-page}
 ![](images/gerry_anderson_metaphysic.jpg){fig-alt="A screenshot showing the 'DeepFake' process during the production of _Gerry Anderson: A Life Uncharted_."}
 :::
 
 ::: figure-caption
-A screenshot of the tools used to train and replace Gerry Anderson's face during the production of the show.
+A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence.
 :::
 
 ## Application of AI 

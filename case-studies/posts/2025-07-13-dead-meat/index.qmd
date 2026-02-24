@@ -69,6 +69,10 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 
 ## Resources
 
+- [AI & Games Interview](https://www.aiandgames.com/p/finding-meaning-in-the-machine-031225?open=false#§meaning-from-the-machine)
+
+{{< video https://youtu.be/Nz2w29Hkof0 >}}
+
 {{< video https://www.youtube.com/embed/F_Tpfn1LxEA?si=IRVAfPO0gUOt9lR >}}
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
