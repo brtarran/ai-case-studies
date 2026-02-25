@@ -14,9 +14,9 @@ toc: false
 ## Background
 [Black Goblin](https://blackgoblinaudio.co.uk/) is an Edinburgh-based creative technology company started by two female founders - “Sound design is a discipline that … very much goes hand-in-hand with new novel technologies, how to use technology to enhance the creative side of work” says founder Ana Betancourt.
 
-The team started working on a product that would automate ‘spotting’, identifying where in a video timeline audio elements need to be addded, and generating, using AI, appropriate sound effects to be inserted into the timeline. The team have focussed on the spotting element based on user feedback and research.
+The team started working on a product that would automate ‘spotting’, identifying where in a video timeline audio elements need to be addded, and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now focused on the spotting element first, based on user feedback and research.
 
-:::{.column-page}
+:::{.column-body}
 ![](images/thol-feature.jpg){fig-alt="A mockup of Thol’s user interface - the application is currently in beta testing. The image shows a video timeline with timecodes and a list of sound effects to be added to the timeline."}
 :::
 
@@ -25,19 +25,19 @@ A mockup of Thol’s user interface - the application is currently in beta testi
 :::
 
 ## Application of AI 
-The original vision for Thol was to explore the automation of sound effects in a video timeline to create a rough ‘first pass’ for sound editors. The company conducted observational research, sitting with approximately ten sound designers over several months to watch them work. Betancourt describes the methodology: “We just observed, I think, close to 10 people over several months without asking questions, except when we saw them struggle, you know, can you explain what you’re doing?”. The participants identified the spotting and marking as a place where technology could be applied, without encroaching on their creativity and professional practice and the team pivoted to this use case.
+The original vision for Thol was to explore the automation of sound effects in a video timeline to create a rough ‘first pass’ for sound editors. The company conducted observational research, sitting with approximately ten sound designers over several months to watch them work. Betancourt describes the methodology: “We just observed, I think, close to 10 people over several months without asking questions, except when we saw them struggle, you know, can you explain what you’re doing?”. The participants identified the spotting and marking as a place where technology could be applied, without encroaching on their creativity and professional practice and the team is prioritising this use case.
 
-Thol’s functionality relies on a mixture of machine learning methods. Vision-Language Models, a class of AI model that integrates understanding of both image and text, allows the application to classify images, identify objects, characters and express where they exist in a given frame or time range. Using this information the system can markup a timeline.
+Thol’s functionality relies on a mixture of machine learning methods, including Vision-Language Models, a class of AI models that integrates understanding of both image and text, to extract timestamps of action-related events and sound sources from a video.
 
-Whilst these types of models are trained on existing text, image and video data, Black Goblin are using them to generate timecodes to be used within an audio production session.
+Whilst these types of models are trained on existing text, image and video data, Black Goblin are using them to guide an audio production session.
 
 
-::: {.column-page}
+::: {.column-body}
 ::: {.pullquote-container}
 ::: {.grid .gap-6 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-9}
 ::: {.pullquote}
-“pull quote TBC”
+“success for us looks like a sound designer using this, and feeling that they were able to make more impact on their projects because of the time that they saved”
 :::
 :::
 ::: {.g-col-12 .g-col-sm-3}
@@ -64,7 +64,11 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 : The team have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round.
 
 ## Resources
+- [Black Goblin website](https://blackgoblinaudio.co.uk/)
 
+{{< video https://www.youtube.com/watch?v=o8K_gpYutbc >}}
+
+- [Black Goblin contributed to *An Introduction to Responsible AI for SMEs* - via Coursera](https://www.coursera.org/learn/an-introduction-to-responsible-ai-for-smes)
 
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
