@@ -8,6 +8,9 @@ categories:
   - Sector adaptation
   - Public transparency
 author: David Johnston
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Casebook"
 date: 02/10/2026
 toc: false
 # image:

@@ -12,6 +12,12 @@ website:
       - href: case-studies/index.qmd
         text: Case studies
 
+  page-footer:
+    background: "#414141"
+    center:
+      - text: "CoSTAR Foresight Lab homepage"
+        href: https://www.costarnetwork.co.uk/labs/foresightlab
+
 format:
   html:
     theme: [cosmo, styles.scss]

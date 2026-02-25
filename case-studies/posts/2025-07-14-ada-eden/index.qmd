@@ -7,6 +7,9 @@ categories:
   - Public transparency
   - Independent creation
 author: Brian Tarran
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Casebook"
 date: 07/14/2025
 toc: false
 # image:

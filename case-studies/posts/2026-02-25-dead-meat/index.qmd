@@ -6,7 +6,13 @@ categories:
   - Responsible AI
   - Investment
   - Independent creation
-author: Brian Tarran and David Johnston
+author:
+  - name: Brian Tarran
+  - name: David Johnston
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Casebook"
+  
 date: 02/25/2026
 toc: false
 # image:
