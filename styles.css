@@ -320,6 +320,10 @@ body:not(.floating) .nav-footer {
   border-top: 1px solid #ff9e0a;
 }
 
+.nav-footer {
+  padding-top: 0.8em;
+}
+
 .nav-footer a {
   color: white;
 }
