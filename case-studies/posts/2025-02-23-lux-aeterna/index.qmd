@@ -4,7 +4,7 @@ description: "This is a demonstration of a possible case study, building off of 
 categories:
   - Responsible AI
   - Insight
-  - Independent Creation
+  - Public transparency
 author: David Johnston
 date: 02/10/2025
 toc: false
@@ -14,19 +14,24 @@ toc: false
 
 ## Background
 
-[Lux Aeterna](https://www.lavfx.com) is a BAFTA and Emmy award-winning independent visual effects (VFX) studio based in Bristol. They have worked on a range of high-profile projects, including _The Crown_, _Human_, and _The Solar System_. The company has a history of engaging with emerging technologies - they are part of the [MyWorld](https://www.myworld-creates.com), a UKRI funded creative technology programme based around Bristol and Bath. As part of this the team explored Generative AI tools in the context of VFX, experimenting with image generation models to power procedural generation of terrain or buildings, or as input to simulating natural phenomona such as storms or destruction events.
-
-:::{.column-page}
-![](images/gerry_anderson_metaphysic.jpg){fig-alt="A screenshot showing the 'DeepFake' process during the production of _Gerry Anderson: A Life Uncharted_."}
-:::
-
-::: figure-caption
-LUX placeholder
-:::
+[Lux Aeterna](https://www.lavfx.com) is a BAFTA and Emmy award-winning independent visual effects (VFX) studio based in Bristol. They have worked on a range of high-profile projects, including _The Crown_, _Human_, and _The Solar System_. The company has a history of engaging with emerging technologies - they are part of the [MyWorld](https://www.myworld-creates.com), a UKRI funded creative technology programme based around Bristol and Bath. 
 
 ## Application of AI 
 
-Lux Aeterna’s work with AI began through research and development (R&D) supported by the MyWorld programme. This early experimentation gave the team an opportunity to evaluate generative AI tools insulated from some of the obligations of client work. Rather than rushing to integrate AI into productions, the team used this period to build a realistic understanding of where generative tools could be genuinely useful, practical short comings, and what legal and ethical questions remained unanswered. This caution is also commercially-minded. Lux Aeterna noted that many of its productions involve contracts that preclude uploading client material to cloud-based AI services, a constraint that limits the usefulness of many consumer-facing generative tools.
+Lux Aeterna’s work with AI began in 2023 through research and development (R&D) supported by the MyWorld programme. As part of this the team explored generative AI tools in the context of VFX, experimenting with image generation models such as [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) to power procedural generation of terrain or buildings, or as input into simulation of natural phenomona, such as storms or destruction events.
+
+
+:::{.column-body}
+![](images/lux_parallax.jpg){fig-alt="A screenshot Lux Aeterna's exploration of integrating image diffusion models into the population of large scenes."}
+:::
+
+::: figure-caption
+An example of the workflow exploration Lux undertook as part of MyWorld
+:::
+
+This early experimentation gave the team an opportunity to evaluate generative AI tools away from some of the challenges of client work. Rather than rushing to integrate AI into productions, the team used this period to build a realistic understanding of where generative tools could be genuinely useful, practical short comings, and what legal and ethical questions remained unanswered. 
+
+This caution is also commercially-minded. Lux Aeterna noted that many of its productions involve contracts that preclude uploading client material to cloud-based AI services, a constraint that limits the usefulness of many consumer-facing generative tools.
 
 ::: {.column-page}
 ::: {.pullquote-container}
@@ -49,7 +54,9 @@ James Pollock, Creative Technologist & VFX Artist, Lux Aeterna.
 :::
 
 
-Also as part of the MyWorld programme, Lux undertook a project 
+As part of the MyWorld programme, Lux undertook production on their first short film, [*Reno*](https://www.lavfx.com/blog/reno), acting as a test bed for the new technologies they were exploring, including virtual production using LED walls, and realtime gaming engines. Part of that work will be case studies authored by senior academics in fields including cyber-law and copyright.
+
+Reno also became a vehicle for exploring new capture techniques, James notes that Gaussian Splatting - a relatively new approach to creating 3D scenes from photographs - is of ongoing interest to the team. Whilst this approach doesn't specifically utilise neural networks in the same way many AI technologies do, it shares common algorithms and the reliance on heavy weight GPUs for training. 
 
 ## Applying the CoSTAR Foresight Lab AI roadmap
 Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
@@ -57,19 +64,23 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-: Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
+: Lux Aeterna's decision to collaborate with legal experts, and to use those findings to inform their approach to generative AI in final productions, is an example of the informed, precautionary approach the roadmap advocates. The team have distinguished between what can be achieved in experimentation, and what is appropriate for production.
 
-- **Independent creation**
-: Deep Fusion's story is part of an emerging theme -  creators trying to use existing AI productions and solutions and finding them wanting for creative production in the CoSTAR sectors. By building their own tooling and infrastruture they are enabling new workflows for themselves, and maintaining control over the use of the technology.
+- **Public transparency**
+: James Pollock’s ongoing tech blog documents the studio’s explorations openly and critically, sharing both what works and what does not. The studio is also deliberate about how it describes its AI use publicly, wary of overclaiming in a space where reputational risks are real. 
 
-- **Investment**
-: The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+- **Sector adaptation**
+: The team's adoption and exploration of new technologies, not just AI, shows how UK VFX studios can build repeatable, transferable workflows from them. Creating the space to explore and innovate outside of production constraints can position companies to offer clients genuinely novel solutions as techniques and technologies mature.
 
 
 ## Resources
 
+- [*Lux Aeterna's tech blog*](https://www.lavfx.com/what-the-tech)
+
 - [*Lux Aeterna, MyWorld case study*](https://www.digicatapult.org.uk/blogs/post/investigating-generative-ai-tools-for-vfx/)
 
+
+- [CoSTAR National Lab's blog on Gaussian Splatting R&D](https://costarnationallab.substack.com/p/the-promise-of-dynamic-gaussian-splatting)
 
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
