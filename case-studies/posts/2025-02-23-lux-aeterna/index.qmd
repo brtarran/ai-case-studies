@@ -1,0 +1,86 @@
+---
+title: "Lux Aeterna"
+description: "This is a demonstration of a possible case study, building off of the 'AI in the Screen Sector: Perspectives and Paths Forward' report. It focuses on one of the example projects mentioned briefly in the report." 
+categories:
+  - Responsible AI
+  - Insight
+  - Independent Creation
+author: David Johnston
+date: 02/10/2025
+toc: false
+# image:
+# image-alt:
+---
+
+## Background
+
+[Lux Aeterna](https://www.lavfx.com) is a BAFTA and Emmy award-winning independent visual effects (VFX) studio based in Bristol. They have worked on a range of high-profile projects, including _The Crown_, _Human_, and _The Solar System_. The company has a history of engaging with emerging technologies - they are part of the [MyWorld](https://www.myworld-creates.com), a UKRI funded creative technology programme based around Bristol and Bath. As part of this the team explored Generative AI tools in the context of VFX, experimenting with image generation models to power procedural generation of terrain or buildings, or as input to simulating natural phenomona such as storms or destruction events.
+
+:::{.column-page}
+![](images/gerry_anderson_metaphysic.jpg){fig-alt="A screenshot showing the 'DeepFake' process during the production of _Gerry Anderson: A Life Uncharted_."}
+:::
+
+::: figure-caption
+LUX placeholder
+:::
+
+## Application of AI 
+
+Lux Aeterna’s work with AI began through research and development (R&D) supported by the MyWorld programme. This early experimentation gave the team an opportunity to evaluate generative AI tools insulated from some of the obligations of client work. Rather than rushing to integrate AI into productions, the team used this period to build a realistic understanding of where generative tools could be genuinely useful, practical short comings, and what legal and ethical questions remained unanswered. This caution is also commercially-minded. Lux Aeterna noted that many of its productions involve contracts that preclude uploading client material to cloud-based AI services, a constraint that limits the usefulness of many consumer-facing generative tools.
+
+::: {.column-page}
+::: {.pullquote-container}
+::: {.grid .gap-6 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-9}
+::: {.pullquote}
+"“I put quite a bit of time into delving into sort of every aspect of it — from technical to creative to practical, and legal and ethical — and sort of come out the other side going: I still don’t know where things are going for us. I’m always an advocate for just taking a slowly, slowly approach, because you don’t necessarily want to be influenced by just this noise, this volume.”
+:::
+:::
+::: {.g-col-12 .g-col-sm-3}
+![](images/lux_james_headshot.jpg){fig-alt="James Pollock, Creative Technologist & VFX Artist, Lux Aeterna"}
+
+::: figure-caption
+James Pollock, Creative Technologist & VFX Artist, Lux Aeterna.
+:::
+
+:::
+:::
+:::
+:::
+
+
+Also as part of the MyWorld programme, Lux undertook a project 
+
+## Applying the CoSTAR Foresight Lab AI roadmap
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+
+#### How this case study aligns with the roadmap
+
+- **Responsible AI**
+: Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
+
+- **Independent creation**
+: Deep Fusion's story is part of an emerging theme -  creators trying to use existing AI productions and solutions and finding them wanting for creative production in the CoSTAR sectors. By building their own tooling and infrastruture they are enabling new workflows for themselves, and maintaining control over the use of the technology.
+
+- **Investment**
+: The team’s main focus on the prosumer and independant creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+
+
+## Resources
+
+- [*Lux Aeterna, MyWorld case study*](https://www.digicatapult.org.uk/blogs/post/investigating-generative-ai-tools-for-vfx/)
+
+
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Find more case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 
