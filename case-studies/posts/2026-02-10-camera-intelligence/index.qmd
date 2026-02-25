@@ -8,7 +8,7 @@ categories:
   - Sector adaptation
   - Public transparency
 author: David Johnston
-date: 02/10/2025
+date: 02/10/2026
 toc: false
 # image:
 # image-alt:
@@ -60,7 +60,7 @@ Vishal Kumar, co-founder of Camera Intelligence.
 :::
 
 ## Applying the CoSTAR Foresight Lab AI roadmap
-Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
 
 #### How this case study aligns with the roadmap
 

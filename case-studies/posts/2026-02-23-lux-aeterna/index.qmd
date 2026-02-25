@@ -6,7 +6,7 @@ categories:
   - Insight
   - Independent Creation
 author: David Johnston
-date: 02/10/2025
+date: 02/10/2026
 toc: false
 # image:
 # image-alt:
@@ -52,7 +52,7 @@ James Pollock, Creative Technologist & VFX Artist, Lux Aeterna.
 Also as part of the MyWorld programme, Lux undertook a project 
 
 ## Applying the CoSTAR Foresight Lab AI roadmap
-Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
 
 #### How this case study aligns with the roadmap
 

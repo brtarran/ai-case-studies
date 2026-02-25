@@ -6,8 +6,8 @@ categories:
   - Responsible AI
   - Investment
   - Independent creation
-author: Brian Tarran
-date: 07/13/2025
+author: Brian Tarran and David Johnston
+date: 02/25/2026
 toc: false
 # image:
 # image-alt:
