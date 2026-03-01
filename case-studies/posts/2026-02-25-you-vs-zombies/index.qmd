@@ -13,13 +13,13 @@ toc: false
 ---
 
 ## Background
-[10six Games](https://10sixgames.com/) is a UK-based independent game development studio founded by Susan and Lee Cummings, industry veterans who have worked for major studios including 2K Games, 2K Sports and Rockstar and who previously set up Tiny Rebel Games in Cardiff. The first game in development at 10six is *YOU Vs. Zombies*, an action role-playing title that uses generative AI to shape character design, backstory, stats and special abilities. 
+[10six Games](https://10sixgames.com/) is a UK-based independent game developer founded by Susan and Lee Cummings, industry veterans who have worked for major studios including 2K Games, 2K Sports and Rockstar and who previously set up Tiny Rebel Games in Cardiff. The first game in development at 10six is *YOU Vs. Zombies*, an action role-playing title that uses generative AI to shape character design, backstory, stats and special abilities. 
 
 *YOU Vs. Zombies* is set in a world overrun by the undead, where only three wizards are left alive. The trio cast a spell to send one of their number back through time to inhabit the body of someone living at the start of the zombie outbreak. The spell mechanic is presented as an interactive dialogue between game and player. Players are asked to specify who they want to inhabit and to describe what this person looks like, where they live, what they do for a living, and their likes and dislikes. These inputs are then used as prompts for generative AI models to create a character model and a character sheet that lists key attributes, weapons and powers. Story beats, mission locations, dialogue and flavour text are also customised to the character design.
 
-The game is currently in early alpha and is due to launch in early access in late summer 2026.
+The game is currently in early alpha and is due to launch in early access in late summer 2026. It will also be playable as part of the Official Selection of the London Games Festival 2026.
 
-:::{.column-page}
+:::{.column-body}
 ![](images/YvZ_2.jpg){fig-alt="Screenshot from YOU Vs. Zombies. In-game footage with a hand-drawn, comic-book art style. The playable female character is performing an area-of-effect move, indicated by jagged red and yellow energy rays radiating from her. To the right, a horde of zombies emerges from a pumpkin patch. Several wooden garden planters are scattered to the left. The UI shows a countdown timer at 43, a score of 20 PTS and a health bar at the bottom left."}
 :::
 
@@ -34,10 +34,10 @@ Underlying the game is the Infinity Platform, built on Google Cloud services. Pr
 
 For story creation, an LLM works within a narrative structure provided by the game’s story bible to shape various elements around the player’s input. If a character lives in Cardiff, say, Barry Island might be named as a mission location; those based in Hertfordshire might battle zombie hordes in Bishop’s Stortford instead.
 
-To keep character designs consistent while customisable, 10six Games used [Low-Rank Adaptation (LoRA)](https://www.ibm.com/think/topics/lora) to finetune a model on artwork created by the team’s artist, ensuring outputs adhere to the games specific 2D comic art style.
+To keep character designs consistent while customisable, 10six Games used [low-rank adaptation (LoRA)](https://www.ibm.com/think/topics/lora) to finetune a model on artwork created by the team’s artist, ensuring outputs adhere to the game's specific 2D comic art style.
 
 
-::: {.column-page}
+::: {.column-body}
 ::: {.pullquote-container}
 ::: {.grid .gap-6 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-9}
