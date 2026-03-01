@@ -77,8 +77,8 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 
 ## Resources
 
-- [*Lux Aeterna's tech blog*](https://www.lavfx.com/what-the-tech)
-- [*Lux Aeterna, MyWorld case study*](https://www.digicatapult.org.uk/blogs/post/investigating-generative-ai-tools-for-vfx/)
+- [Lux Aeterna's tech blog](https://www.lavfx.com/what-the-tech)
+- [Lux Aeterna, MyWorld case study](https://www.digicatapult.org.uk/blogs/post/investigating-generative-ai-tools-for-vfx/)
 - [CoSTAR National Lab's blog on Gaussian splatting R&D](https://costarnationallab.substack.com/p/the-promise-of-dynamic-gaussian-splatting)
 
 
