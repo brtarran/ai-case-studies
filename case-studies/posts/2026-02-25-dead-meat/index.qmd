@@ -13,7 +13,7 @@ citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
   
-date: 02/25/2026
+date: 03/03/2025
 toc: false
 # image:
 # image-alt:

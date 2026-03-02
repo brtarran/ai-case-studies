@@ -10,7 +10,7 @@ author:
 citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
-date: 03/01/2026
+date: 03/03/2025
 toc: false
 # image:
 # image-alt:
@@ -22,7 +22,7 @@ The BFI National Archive is the UK’s national collection of film and televisio
 
 ## Application of AI 
 
-The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an Nvidia H-100 GPU in the Archive network.
+The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.
 
 The experiments focus on three areas:
 

@@ -10,7 +10,7 @@ author: Brian Tarran
 citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
-date: 07/14/2025
+date: 03/03/2025
 toc: false
 # image:
 # image-alt:
