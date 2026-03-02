@@ -2,8 +2,13 @@
   {
     "listing": "/case-studies/index.html",
     "items": [
-      "/case-studies/posts/2025-07-14-ada-eden/index.html",
-      "/case-studies/posts/2025-07-13-dead-meat/index.html"
+      "/case-studies/posts/dead-meat/index.html",
+      "/case-studies/posts/camera-intelligence/index.html",
+      "/case-studies/posts/deep-fusion-films/index.html",
+      "/case-studies/posts/ada-eden/index.html",
+      "/case-studies/posts/you-vs-zombies/index.html",
+      "/case-studies/posts/black-goblin/index.html",
+      "/case-studies/posts/lux-aeterna/index.html"
     ]
   }
 ]

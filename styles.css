@@ -284,6 +284,19 @@ dd a {
   text-decoration-color: #ff9e0a;
 }
 
+#quarto-appendix.default {
+    background-color: #f0eeeb;
+    border-top: 1px solid #ff9e0a;
+}
+
+#quarto-appendix.default .quarto-appendix-bibtex {
+    border: solid 1px #ff9e0a;
+}
+
+#quarto-appendix.default .quarto-appendix-citeas {
+    border: solid 1px #ff9e0a;
+}
+
 /*-- listings --*/
 
 div.quarto-post a {
@@ -298,4 +311,23 @@ div.quarto-post .listing-categories .listing-category {
 
 div.quarto-post .metadata {
     font-family: 'Montserrat';  
+}
+
+
+/*-- Footer --*/
+
+body:not(.floating) .nav-footer {
+  border-top: 1px solid #ff9e0a;
+}
+
+.nav-footer {
+  padding-top: 0.8em;
+}
+
+.nav-footer a {
+  color: white;
+}
+
+.nav-footer a:hover {
+  color: #ff9e0a;
 }
