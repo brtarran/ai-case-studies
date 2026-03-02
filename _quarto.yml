@@ -11,6 +11,20 @@ website:
         text: Overview
       - href: case-studies/index.qmd
         text: Case studies
+      - href: https://www.costarnetwork.co.uk/resources/ai-in-the-screen-sector-quarterly-digest-october-to-december-2025
+        text: "Digest"
+
+  page-footer:
+    background: "#414141"
+    center:
+      - href: https://github.com/brtarran/ai-case-studies
+        icon: github
+        aria-label: GitHub
+      - href: https://www.linkedin.com/showcase/costar-foresight-lab
+        icon: linkedin
+        aria-label: LinkedIn
+      - text: "CoSTAR Foresight Lab homepage"
+        href: https://www.costarnetwork.co.uk/labs/foresightlab
 
 format:
   html:

@@ -1,0 +1,79 @@
+---
+title: "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility"
+description: "Large language models, vision models, and established natural language processing methods are being assessed for their usefulness within the UK's national collection of film and television materials." 
+categories:
+  - Responsible AI
+  - Sector adaptation
+author: 
+  - name: Stephen McConnachie
+  - name: Brian Tarran
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Casebook"
+date: 03/03/2025
+format: 
+  html: default
+  docx: default
+toc: false
+# image:
+# image-alt:
+---
+
+## Background
+
+The [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters.
+
+## Application of AI
+
+:::{.callout-note}
+The text in this section was originally published in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf).
+:::
+
+The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.
+
+The experiments focus on three areas:
+
+- **Speech-to-text**
+: Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.
+
+- **Named entity recognition (NER) and wikification**
+: Using spaCy for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
+
+- **Video understanding and description**
+: Experimenting with Google Gemini 1.5 Pro to catalogue, shortlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen2-VL or LLaVA-Video. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections. 
+
+:::{.column-body}
+![](images/inside-bfi-national-archive-stacks-reels.jpg){fig-alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."}
+:::
+
+::: figure-caption
+Film reel cannisters inside the BFI National Archive, courtesy of the BFI.
+:::
+
+## Applying the CoSTAR Foresight Lab AI roadmap
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+
+#### How this case study aligns with the roadmap
+
+- **Responsible AI**
+: The BFI National Archive has followed the "scan > pilot > scale" approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network. 
+
+- **Sector adaptation**
+: AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.    
+
+## Resources
+
+- [Inside the Archive](https://www.bfi.org.uk/bfi-national-archive/inside-archive)
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Find more case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 
