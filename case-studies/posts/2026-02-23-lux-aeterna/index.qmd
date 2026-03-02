@@ -1,6 +1,6 @@
 ---
-title: "Lux Aeterna"
-description: "Lux Aeterna is a Bristol-based VFX studio taking a deliberate and cautious approach to generative AI, using R&D space afforded by the MyWorld programme to explore its potential while carefully navigating the legal, ethical, and practical constraints of production work." 
+title: "Lux Aeterna: Navigating the legal, ethical, and practical constraints of AI in production"
+description: "The Bristol-based VFX studio is taking a deliberate and cautious approach to generative AI, using R&D space afforded by the MyWorld programme to explore the technology's potential and limitations." 
 categories:
   - Responsible AI
   - Insight
