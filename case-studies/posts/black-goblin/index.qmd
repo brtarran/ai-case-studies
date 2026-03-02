@@ -8,7 +8,7 @@ author: David Johnston
 citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
-date: 03/03/2025
+date: 03/03/2026
 toc: false
 # image:
 # image-alt:
