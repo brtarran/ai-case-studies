@@ -11,6 +11,9 @@ citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
 date: 03/03/2025
+format: 
+  html: default
+  docx: default
 toc: false
 # image:
 # image-alt:
@@ -18,9 +21,13 @@ toc: false
 
 ## Background
 
-The BFI National Archive is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilm titles, and materials such as scripts, photographs, and posters.
+The [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters.
 
-## Application of AI 
+## Application of AI
+
+:::{.callout-note}
+The text in this section was originally published in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf).
+:::
 
 The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.
 
@@ -49,10 +56,10 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-: text to come
+: The BFI National Archive has followed the "scan > pilot > scale" approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network. 
 
 - **Sector adaptation**
-: text to come
+: AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.    
 
 ## Resources
 
