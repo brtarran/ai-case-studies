@@ -6,11 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="David Johnston">
+<meta name="author" content="Stephen McConnachie">
+<meta name="author" content="Brian Tarran">
 <meta name="dcterms.date" content="2026-03-03">
-<meta name="description" content="London-based camera hardware and software company is enabling voice control and live editing capabilities through integration of AI models.">
+<meta name="description" content="Large language models, vision models, and established natural language processing methods are being assessed for their usefulness within the UK’s national collection of film and television materials.">
 
-<title>Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI – AI in the Screen Sector: Casebook</title>
+<title>BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility – AI in the Screen Sector: Casebook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -117,18 +118,15 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI</h1>
+      <h1 class="title">BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility</h1>
                   <div>
         <div class="description">
-          London-based camera hardware and software company is enabling voice control and live editing capabilities through integration of AI models.
+          Large language models, vision models, and established natural language processing methods are being assessed for their usefulness within the UK’s national collection of film and television materials.
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">Carbon</div>
                 <div class="quarto-category">Responsible AI</div>
-                <div class="quarto-category">Investment</div>
                 <div class="quarto-category">Sector adaptation</div>
-                <div class="quarto-category">Public transparency</div>
               </div>
                   </div>
   </div>
@@ -137,9 +135,10 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta">
 
       <div>
-      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-heading">Authors</div>
       <div class="quarto-title-meta-contents">
-               <p>David Johnston </p>
+               <p>Stephen McConnachie </p>
+               <p>Brian Tarran </p>
             </div>
     </div>
       
@@ -165,55 +164,55 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="background" class="level2 page-columns page-full">
+<section id="background" class="level2">
 <h2 class="anchored" data-anchor-id="background">Background</h2>
-<p><a href="https://cameraintelligence.com/">Camera Intelligence</a> is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities such as editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.</p>
-<div class="column-body">
-<p><img src="images/caira_with_woman_in_bg.png" class="img-fluid" alt="A photograph of a woman in a white t-shirt holding Camera Intelligence's 'Caira' product with a wide-angle lens. She is looking at the back of the camera as if focusing on the photo or videography."></p>
-</div>
-<div class="figure-caption">
-<p>A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence.</p>
-</div>
+<p>The <a href="https://www.bfi.org.uk/bfi-national-archive">BFI National Archive</a> is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters.</p>
 </section>
 <section id="application-of-ai" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="application-of-ai">Application of AI</h2>
-<p>Camera Intelligence uses a variety of AI models within their products. This includes large language models (LLMs) for understanding of user input, agentic systems for controlling the camera, computational photography for more traditional control of photographic parameters, and cloud-hosted models for image and video generation.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The text in this section has been updated following its inclusion in the June 2025 report, <a href="https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf"><em>AI in the Screen Sector: Perspectives and Paths Forward</em></a>.</p>
+</div>
+</div>
+</div>
+<p>The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.</p>
+<p>The experiments focus on three areas:</p>
 <ul>
 <li><dl>
-<dt><strong>LLMs</strong></dt>
+<dt><strong>Speech-to-text</strong></dt>
 <dd>
-The team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example, users might ask the camera to “take a photo in five seconds”; iterate on an idea by saying “add a little more contrast”; or make complex requests such as “make it look like Kodak Vision”.
+Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.
 </dd>
 </dl></li>
 <li><dl>
-<dt><strong>Generative editing</strong></dt>
+<dt><strong>Named entity recognition (NER) and wikification</strong></dt>
 <dd>
-The product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana – for example, removing unwanted elements from a scene using simple voice prompts.
+Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
 </dd>
 </dl></li>
 <li><dl>
-<dt><strong>Agentic workflows</strong></dt>
+<dt><strong>Video understanding and description</strong></dt>
 <dd>
-Camera Intelligence looks to move beyond simple command and response to more complex capabilities. As co-founder Vishal Kumar explains: “You might be able to push this edit button … it will remove filler words, it will add subtitles, and it will do a little bit of colour grading depending on your style. And in … 2 minutes … you’ll get a file back that’s … in a pretty good place.”
+Experimenting with Google Gemini Pro to catalogue, shortlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
 </dd>
 </dl></li>
 </ul>
 <div class="column-body">
-<div class="pullquote-container">
-<div class="grid gap-6 pb-3 pt-4">
-<div class="g-col-12 g-col-sm-9">
-<div class="pullquote">
-<p>“We’re looking to make it easier for people to express themselves, tell their stories. We are very conscious and aware of what we’re doing… We’re not here to replace people.”</p>
+<p><img src="images/inside-bfi-national-archive-stacks-reels.jpg" class="img-fluid" alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."></p>
 </div>
-</div>
-<div class="g-col-12 g-col-sm-3">
-<p><img src="images/camera_intelligence_vish.png" class="img-fluid" alt="Headshot of Vishal Kumar, Camera Intelligence's co-founder, holding one of the company's Caira units and pointing it at the camera."></p>
 <div class="figure-caption">
-<p>Vishal Kumar, co-founder of Camera Intelligence.</p>
-</div>
-</div>
-</div>
-</div>
+<p>Film reel cannisters inside the BFI National Archive, courtesy of the BFI.</p>
 </div>
 </section>
 <section id="applying-the-costar-foresight-lab-ai-roadmap" class="level2">
@@ -223,33 +222,15 @@ Camera Intelligence looks to move beyond simple command and response to more com
 <h4 class="anchored" data-anchor-id="how-this-case-study-aligns-with-the-roadmap">How this case study aligns with the roadmap</h4>
 <ul>
 <li><dl>
-<dt><strong>Carbon</strong></dt>
-<dd>
-Caira uses on-device models where practical, minimising the impact of relying on cloud compute for inference (understanding and generation).
-</dd>
-</dl></li>
-<li><dl>
 <dt><strong>Responsible AI</strong></dt>
 <dd>
-Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools. “The solution,” says Kumar, “is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kinds of complicated editing tools.”
-</dd>
-</dl></li>
-<li><dl>
-<dt><strong>Investment</strong></dt>
-<dd>
-Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5 million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
+The BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.
 </dd>
 </dl></li>
 <li><dl>
 <dt><strong>Sector adaptation</strong></dt>
 <dd>
-The team’s main focus on the “prosumer” and independent creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
-</dd>
-</dl></li>
-<li><dl>
-<dt><strong>Public transparency</strong></dt>
-<dd>
-The product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see <a href="#resources">Resources</a> section).
+AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.
 </dd>
 </dl></li>
 </ul>
@@ -257,7 +238,9 @@ The product website has details about their integration of AI models and systems
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/0CK-wsrxbng" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li><a href="https://www.bfi.org.uk/bfi-national-archive/inside-archive">Inside the Archive</a></li>
+</ul>
 <div class="grid gap-3 pb-3 pt-4">
 <div class="g-col-12 g-col-sm-6">
 <p><a href="../../../case-studies/index.html" class="btn-action btn btn-lg w-100" role="button">Find more case studies</a></p>
@@ -270,18 +253,19 @@ The product website has details about their integration of AI models and systems
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{johnston2026,
-  author = {Johnston, David},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mcconnachie2026,
+  author = {McConnachie, Stephen and Tarran, Brian},
   publisher = {CoSTAR Foresight Lab},
-  title = {Camera {Intelligence:} {Bridging} Capture, Computation and
-    Post-Production with on-Device and Cloud {AI}},
+  title = {BFI {National} {Archive:} {Experimenting} with {AI} Models to
+    Enhance Data, Discoverability, and Accessibility},
   date = {2026-03-03},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-johnston2026" class="csl-entry quarto-appendix-citeas" role="listitem">
-Johnston, David. 2026. <span>“Camera Intelligence: Bridging Capture,
-Computation and Post-Production with on-Device and Cloud AI.”</span> AI
-in the Screen Sector: Casebook. CoSTAR Foresight Lab. March 3, 2026.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mcconnachie2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+McConnachie, Stephen, and Brian Tarran. 2026. <span>“BFI National
+Archive: Experimenting with AI Models to Enhance Data, Discoverability,
+and Accessibility.”</span> AI in the Screen Sector: Casebook. CoSTAR
+Foresight Lab. March 3, 2026.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
