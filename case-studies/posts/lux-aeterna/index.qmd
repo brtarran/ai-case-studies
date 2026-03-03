@@ -21,7 +21,7 @@ toc: false
 
 ## Application of AI 
 
-Lux Aeterna’s work with AI began in 2023 through research and development (R&D) supported by the MyWorld programme. As part of this, the team explored generative AI tools in the context of VFX, experimenting with image generation models such as [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) to power procedural generation of terrain or buildings, or as input into simulation of natural phenomona, such as storms or destruction events.
+Lux Aeterna’s work with AI began in 2023 through research and development (R&D) supported by the MyWorld programme. As part of this, the team explored generative AI tools in the context of VFX, experimenting with image generation models such as [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) to power procedural generation of terrain or buildings, or as input into simulation of natural phenomena, such as storms or destruction events.
 
 
 :::{.column-body}
