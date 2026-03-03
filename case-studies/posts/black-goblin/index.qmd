@@ -17,7 +17,7 @@ toc: false
 ## Background
 [Black Goblin](https://blackgoblinaudio.co.uk/) is an Edinburgh-based creative technology company started by two female founders.
 
-The team started working on a product called Thol that would automate ‘spotting’ -- identifying where in a video timeline audio elements need to be added -- and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now focused on the spotting element first, based on user feedback and research.
+The team started working on a product called Thol that would automate ‘spotting’ -- identifying where in a video timeline audio elements need to be added -- and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now initially building out the spotting functionality, based on user feedback and research.
 
 “Sound design is a discipline that ... very much goes hand-in-hand with new novel technologies; how to use technology to enhance the creative side of work,” says Black Goblin co-founder Ana Betancourt.
 
