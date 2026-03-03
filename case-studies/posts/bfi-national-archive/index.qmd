@@ -11,9 +11,6 @@ citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
 date: 03/03/2026
-format: 
-  html: default
-  docx: default
 toc: false
 # image:
 # image-alt:
@@ -25,8 +22,8 @@ The [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) is the U
 
 ## Application of AI
 
-:::{.callout-note}
-The text in this section was originally published in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf).
+:::{.callout-note collapse="true"}
+The text in this section has been updated following its inclusion in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf).
 :::
 
 The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.
@@ -37,10 +34,10 @@ The experiments focus on three areas:
 : Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.
 
 - **Named entity recognition (NER) and wikification**
-: Using spaCy for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
+: Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
 
 - **Video understanding and description**
-: Experimenting with Google Gemini 1.5 Pro to catalogue, shortlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen2-VL or LLaVA-Video. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections. 
+: Experimenting with Google Gemini Pro to catalogue, shortlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
 
 :::{.column-body}
 ![](images/inside-bfi-national-archive-stacks-reels.jpg){fig-alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."}
