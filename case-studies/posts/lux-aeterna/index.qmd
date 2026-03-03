@@ -21,7 +21,7 @@ toc: false
 
 ## Application of AI 
 
-Lux Aeterna’s work with AI began in 2023 through research and development (R&D) supported by the MyWorld programme. As part of this, the team explored generative AI tools in the context of VFX, experimenting with image generation models such as [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) to power procedural generation of terrain or buildings, or as input into simulation of natural phenomona, such as storms or destruction events.
+Lux Aeterna’s work with AI began in 2023 through research and development (R&D) supported by the MyWorld programme. As part of this, the team explored generative AI tools in the context of VFX, experimenting with image generation models such as [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) to power procedural generation of terrain or buildings, or as input into simulation of natural phenomena, such as storms or destruction events.
 
 
 :::{.column-body}
@@ -57,7 +57,7 @@ James Pollock, creative technologist and VFX artist, Lux Aeterna.
 :::
 
 
-As part of the MyWorld programme, Lux undertook production on their first short film, [*Reno*](https://www.lavfx.com/blog/reno), acting as a test bed for the new technologies they were exploring, including virtual production using LED walls, and realtime gaming engines. Part of that work will be form case studies authored by senior academics in fields including cyber-law and copyright.
+As part of the MyWorld programme, Lux undertook production on their first short film, [*Reno*](https://www.lavfx.com/blog/reno), acting as a test bed for the new technologies they were exploring, including virtual production using LED walls, and realtime gaming engines. Part of that work will be published in the form of case studies, authored by senior academics in fields including cyber-law and copyright.
 
 *Reno* also became a vehicle for exploring new capture techniques; Lux Aeterna's creative technologist James Pollock notes that [Gaussian splatting](https://huggingface.co/blog/gaussian-splatting) -- a relatively new approach to creating 3D scenes from photographs -- is of ongoing interest to the team. Whilst this approach doesn't specifically utilise neural networks in the same way many AI technologies do, it shares common algorithms and the reliance on heavyweight GPUs for training. 
 
