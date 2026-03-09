@@ -1,6 +1,6 @@
 ---
 title: "Bonzamusic: Using AI to unlock new spaces for real-time musical collaboration"
-description: "Startup founded by film, TV and technology professionals aims to unify disconnected tools and AI services into a single platform."
+description: "Startup music technology company using AI to scale acoustic room capture for their low-latency remote music collaboration platform"
 categories:
   - Responsible AI
   - Investment
