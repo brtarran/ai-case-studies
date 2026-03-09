@@ -105,39 +105,39 @@
     "text": "Resources\n\nInside the Archive\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
-    "objectID": "case-studies/posts/camera-intelligence/index.html",
-    "href": "case-studies/posts/camera-intelligence/index.html",
-    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "objectID": "case-studies/posts/karmanline/index.html",
+    "href": "case-studies/posts/karmanline/index.html",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "",
-    "text": "Camera Intelligence is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities such as editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.\n\n\n\n\nA woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence."
+    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
   },
   {
-    "objectID": "case-studies/posts/camera-intelligence/index.html#background",
-    "href": "case-studies/posts/camera-intelligence/index.html#background",
-    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "objectID": "case-studies/posts/karmanline/index.html#background",
+    "href": "case-studies/posts/karmanline/index.html#background",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "",
-    "text": "Camera Intelligence is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities such as editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.\n\n\n\n\nA woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence."
+    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
   },
   {
-    "objectID": "case-studies/posts/camera-intelligence/index.html#application-of-ai",
-    "href": "case-studies/posts/camera-intelligence/index.html#application-of-ai",
-    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "objectID": "case-studies/posts/karmanline/index.html#application-of-ai",
+    "href": "case-studies/posts/karmanline/index.html#application-of-ai",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Application of AI",
-    "text": "Application of AI\nCamera Intelligence uses a variety of AI models within their products. This includes large language models (LLMs) for understanding of user input, agentic systems for controlling the camera, computational photography for more traditional control of photographic parameters, and cloud-hosted models for image and video generation.\n\n\nLLMs\n\nThe team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example, users might ask the camera to “take a photo in five seconds”; iterate on an idea by saying “add a little more contrast”; or make complex requests such as “make it look like Kodak Vision”.\n\n\n\nGenerative editing\n\nThe product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana – for example, removing unwanted elements from a scene using simple voice prompts.\n\n\n\nAgentic workflows\n\nCamera Intelligence looks to move beyond simple command and response to more complex capabilities. As co-founder Vishal Kumar explains: “You might be able to push this edit button … it will remove filler words, it will add subtitles, and it will do a little bit of colour grading depending on your style. And in … 2 minutes … you’ll get a file back that’s … in a pretty good place.”\n\n\n\n\n\n\n\n\n“We’re looking to make it easier for people to express themselves, tell their stories. We are very conscious and aware of what we’re doing… We’re not here to replace people.”\n\n\n\n\n\nVishal Kumar, co-founder of Camera Intelligence."
+    "text": "Application of AI\nKarmanline is not looking to build its own AI models but instead develop software that allows a variety of models and tools to be integrated into a unified platform for cross-department collaboration. “We want Karmanline to be the place where your producer, director, writer or showrunner goes to orchestrate all the jobs to be done across a production,” says Carter.\nThe team is taking a modular approach to building out the platform, beginning with a pre-visualisation web app that takes a script and uses several generative models – including Marey from Moonvalley and Google Gemini – to visualise key elements and scenes. As part of its script workflow, the company will be looking to integrate with screenwriting software Final Draft, but also allowing connections with Google Docs, Word, and other tools. “We don’t want to be dictating what tools people have to use,” says Carter.\nNext, the team expects to add in an automation layer that will infer, from script and visuals, what the shooting schedule options might be, as well as accounting or financing options.\n\n\n\n“The requirements for automation and for the connection of information from production scheduling and production management have existed for a long time. But the opportunity exists now because AI tools are changing the game. Language models provide a new way of interfacing with computers, so non-programmers can get computers to do much more for them than could be done in the past.”\n\n\n\nTim Carter, co-founder, Karmanline."
   },
   {
-    "objectID": "case-studies/posts/camera-intelligence/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/camera-intelligence/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "objectID": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nCarbon\n\nCaira uses on-device models where practical, minimising the impact of relying on cloud compute for inference (understanding and generation).\n\n\n\nResponsible AI\n\nCamera Intelligence’s product came from friction that the founder experienced creating content using traditional tools. “The solution,” says Kumar, “is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kinds of complicated editing tools.”\n\n\n\nInvestment\n\nCamera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5 million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.\n\n\n\nSector adaptation\n\nThe team’s main focus on the “prosumer” and independent creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.\n\n\n\nPublic transparency\n\nThe product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see Resources section)."
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nIn building out its platform, Karmanline is looking to embed the concept of a “Free Space” and a “Pro Space”: the former for early-stage ideation, where choice of AI model may have least risk attached to it; the latter for when new creative assets and IP are being realised, governance and risk management processes kick in, and producers require a clean chain of title and verifiable audit trail.\n\n\n\nInsight\n\nAs part of its mapping of creative and AI tools available to film and TV productions, Karmanline has produced and published (under Creative Commons license) a table of more than 300 products, describing the main use cases of each product, their input and output modes, and whether they train on user data. The CoSTAR Foresight Lab has also published its own framework of advanced machine learning tools used in film production, organised by production phase.\n\n\n\nSector adaptation\n\nCarter sees the coordination of information and workflows across creative and business processes as “imperative” given budgetary pressures linked to cost inflation. “When you’re producing a TV show or a movie,” he says “there’s a whole bunch of tasks across production, execution, finance, administration and marketing. Those tasks need to be done however you’re producing the content. But the opportunity of AI tools is that those tasks can be coordinated.”"
   },
   {
-    "objectID": "case-studies/posts/camera-intelligence/index.html#resources",
-    "href": "case-studies/posts/camera-intelligence/index.html#resources",
-    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "objectID": "case-studies/posts/karmanline/index.html#resources",
+    "href": "case-studies/posts/karmanline/index.html#resources",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Resources",
-    "text": "Resources\n\n\n\nFind more case studies\n\n\nRead the report"
+    "text": "Resources\n\nKarmanline\nProduction software table\nAdvanced Machine Learning in Film Production\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/dead-meat/index.html",
@@ -173,6 +173,41 @@
     "title": "Meaning Machine: Fine-tuning language models for responsive character dialogue",
     "section": "Resources",
     "text": "Resources\n\n\n\nAI & Games Interview\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
+    "objectID": "case-studies/posts/camera-intelligence/index.html",
+    "href": "case-studies/posts/camera-intelligence/index.html",
+    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "section": "",
+    "text": "Camera Intelligence is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities such as editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.\n\n\n\n\nA woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence."
+  },
+  {
+    "objectID": "case-studies/posts/camera-intelligence/index.html#background",
+    "href": "case-studies/posts/camera-intelligence/index.html#background",
+    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "section": "",
+    "text": "Camera Intelligence is a London-based camera hardware and software company developing intelligent camera systems. By integrating AI models they are enabling on-device capabilities such as editing and voice control with more planned for the future. The idea for the products came from the founder’s experience creating photo and video content for Sotheby’s Institute for Art. The 2nd generation of their product, Caira, has a Micro Four Thirds sensor and uses standard camera lenses.\n\n\n\n\nA woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Camera Intelligence."
+  },
+  {
+    "objectID": "case-studies/posts/camera-intelligence/index.html#application-of-ai",
+    "href": "case-studies/posts/camera-intelligence/index.html#application-of-ai",
+    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "section": "Application of AI",
+    "text": "Application of AI\nCamera Intelligence uses a variety of AI models within their products. This includes large language models (LLMs) for understanding of user input, agentic systems for controlling the camera, computational photography for more traditional control of photographic parameters, and cloud-hosted models for image and video generation.\n\n\nLLMs\n\nThe team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example, users might ask the camera to “take a photo in five seconds”; iterate on an idea by saying “add a little more contrast”; or make complex requests such as “make it look like Kodak Vision”.\n\n\n\nGenerative editing\n\nThe product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana – for example, removing unwanted elements from a scene using simple voice prompts.\n\n\n\nAgentic workflows\n\nCamera Intelligence looks to move beyond simple command and response to more complex capabilities. As co-founder Vishal Kumar explains: “You might be able to push this edit button … it will remove filler words, it will add subtitles, and it will do a little bit of colour grading depending on your style. And in … 2 minutes … you’ll get a file back that’s … in a pretty good place.”\n\n\n\n\n\n\n\n\n“We’re looking to make it easier for people to express themselves, tell their stories. We are very conscious and aware of what we’re doing… We’re not here to replace people.”\n\n\n\n\n\nVishal Kumar, co-founder of Camera Intelligence."
+  },
+  {
+    "objectID": "case-studies/posts/camera-intelligence/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/camera-intelligence/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nCarbon\n\nCaira uses on-device models where practical, minimising the impact of relying on cloud compute for inference (understanding and generation).\n\n\n\nResponsible AI\n\nCamera Intelligence’s product came from friction that the founder experienced creating content using traditional tools. “The solution,” says Kumar, “is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kinds of complicated editing tools.”\n\n\n\nInvestment\n\nCamera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5 million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.\n\n\n\nSector adaptation\n\nThe team’s main focus on the “prosumer” and independent creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.\n\n\n\nPublic transparency\n\nThe product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see Resources section)."
+  },
+  {
+    "objectID": "case-studies/posts/camera-intelligence/index.html#resources",
+    "href": "case-studies/posts/camera-intelligence/index.html#resources",
+    "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
+    "section": "Resources",
+    "text": "Resources\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/deep-fusion-films/index.html",
