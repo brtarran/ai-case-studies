@@ -22,7 +22,7 @@ toc: false
 Bonza has been in evelopment for four years. The platform combines ultra-low latency audio and video transmission with immersive spatial audio, giving users a sense of physical presence with their collaborators. One of the main features is being able to change the acoustic environment that the collaboration is happening in.
 
 :::{.column-body}
-![](images/karmanline.png){fig-alt="Bonza screenshot TBC"}
+![](images/bonza_screenshot.jpg){fig-alt="Bonza screenshot TBC"}
 :::
 
 ::: figure-caption
