@@ -5,7 +5,7 @@ categories:
   - Responsible AI
   - Investment
   - Sector adaptation
-  - Independant creation
+  - Independent creation
 author: David Johnston
 citation:
   publisher: CoSTAR Foresight Lab
@@ -62,7 +62,7 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 - **Investment**
 : The BridgeAI programme and the University of York partnership provided the research infrastructure that made Bonza’s AI development possible. This illustrates how targeted public investment in AI R&D can enable smaller creative technology companies to solve hard technical problems that would otherwise be out of reach. The team have also benefitted from the use of CoSTAR Live Lab’s audio space within Production Park, near Wakefield.
 
-- **Independant creation**
+- **Independent creation**
 : Bonza aims to empower independent musicians, educators, and small performing arts groups to collaborate without being physically co-located. By removing the latency barrier that previously made real-time remote performance impractical, the platform opens up new possibilities for creative collaboration across geography, and reduces the economic and logistical costs of getting creative people in the same room.
 
 - **Sector adaptation**
