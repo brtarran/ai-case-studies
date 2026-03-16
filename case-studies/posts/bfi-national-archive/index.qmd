@@ -37,7 +37,7 @@ The experiments focus on three areas:
 : Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
 
 - **Video understanding and description**
-: Experimenting with Google Gemini Pro to catalogue, shortlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
+: Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
 
 :::{.column-body}
 ![](images/inside-bfi-national-archive-stacks-reels.jpg){fig-alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."}

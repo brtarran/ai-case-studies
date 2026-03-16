@@ -1,6 +1,6 @@
 ---
 title: "Ada Eden: Using language models and diffusion models to create an 'AI-Native' game experience"
-description: "This is a demonstration of a possible case study, building off of the 'AI in the Screen Sector: Perspectives and Paths Forward' report. It focuses on one of the example projects mentioned briefly in the report" 
+description: "Indie developer brings generative AI capabilities into gameplay, allowing players to shape narratives and turn language into in-game items and visuals." 
 categories:
   - Responsible AI
   - Insight
