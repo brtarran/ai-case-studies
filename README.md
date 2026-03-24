@@ -6,5 +6,5 @@ This repository has been created to collect case studies of generative AI applic
 Interested in submitting a case study? [Send us an email](mailto:rsu-enquiries@bfi.org.uk).
 
 ## Related links:
-- [AI in the Screen Sector: Perspectives and Paths Forward](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf)
+- [AI in the Screen Sector: Perspectives and Paths Forward](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf)
 - [CoSTAR Foresight Lab homepage](https://www.costarnetwork.co.uk/labs/foresightlab)
