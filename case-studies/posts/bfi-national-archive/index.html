@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,6 +13,9 @@
 
 <title>BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility – AI in the Screen Sector: Casebook</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,15 +39,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../../">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-d0408bfc56757a22e93a7d858c33fce1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-e9da6227bf37eca424d79c4b5985a326.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -189,25 +191,17 @@ Note
 <p>The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.</p>
 <p>The experiments focus on three areas:</p>
 <ul>
-<li><dl>
-<dt><strong>Speech-to-text</strong></dt>
-<dd>
-Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.
-</dd>
-</dl></li>
-<li><dl>
-<dt><strong>Named entity recognition (NER) and wikification</strong></dt>
-<dd>
-Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
-</dd>
-</dl></li>
-<li><dl>
-<dt><strong>Video understanding and description</strong></dt>
-<dd>
-Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
-</dd>
-</dl></li>
+<li><strong>Speech-to-text</strong></li>
 </ul>
+<p>: Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.</p>
+<ul>
+<li><strong>Named entity recognition (NER) and wikification</strong></li>
+</ul>
+<p>: Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.</p>
+<ul>
+<li><strong>Video understanding and description</strong></li>
+</ul>
+<p>: Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.</p>
 <div class="column-body">
 <p><img src="images/inside-bfi-national-archive-stacks-reels.jpg" class="img-fluid" alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."></p>
 </div>
@@ -221,19 +215,13 @@ Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise mo
 <section id="how-this-case-study-aligns-with-the-roadmap" class="level4">
 <h4 class="anchored" data-anchor-id="how-this-case-study-aligns-with-the-roadmap">How this case study aligns with the roadmap</h4>
 <ul>
-<li><dl>
-<dt><strong>Responsible AI</strong></dt>
-<dd>
-The BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.
-</dd>
-</dl></li>
-<li><dl>
-<dt><strong>Sector adaptation</strong></dt>
-<dd>
-AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.
-</dd>
-</dl></li>
+<li><strong>Responsible AI</strong></li>
 </ul>
+<p>: The BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.</p>
+<ul>
+<li><strong>Sector adaptation</strong></li>
+</ul>
+<p>: AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.</p>
 </section>
 </section>
 <section id="resources" class="level2">
@@ -264,8 +252,8 @@ AI technologies have the potential to unlock additional value within screen arch
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mcconnachie2026" class="csl-entry quarto-appendix-citeas" role="listitem">
 McConnachie, Stephen, and Brian Tarran. 2026. <span>“BFI National
 Archive: Experimenting with AI Models to Enhance Data, Discoverability,
-and Accessibility.”</span> AI in the Screen Sector: Casebook. CoSTAR
-Foresight Lab. March 3, 2026.
+and Accessibility.”</span> AI in the Screen Sector: Casebook, CoSTAR
+Foresight Lab, March 3.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
