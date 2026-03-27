@@ -59,17 +59,17 @@ Quote taken from Ada Eden's AI content disclosure statement for *1001 Nights*. G
 Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
 
 #### How this case study aligns with the roadmap
-* **Responsible AI**
-: While exploring the storytelling potential of generative AI technologies, Ada Eden’s Yuqian Sun is actively engaging with ethical debates surrounding its use. Her [A MAZE. / Berlin](https://www.youtube.com/watch?v=Ks_pnHnrPmg) talk in October 2024 explores questions around human agency over AI technologies, narratives and outputs. Ada Eden positions its game as an example of how “technology can be an actor, while human creators become the directors who shape it in artistic and innovative ways”.   
+- **Responsible AI**
+  While exploring the storytelling potential of generative AI technologies, Ada Eden’s Yuqian Sun is actively engaging with ethical debates surrounding its use. Her [A MAZE. / Berlin](https://www.youtube.com/watch?v=Ks_pnHnrPmg) talk in October 2024 explores questions around human agency over AI technologies, narratives and outputs. Ada Eden positions its game as an example of how “technology can be an actor, while human creators become the directors who shape it in artistic and innovative ways”.   
 
-* **Insight**
-  : As a continuation of an academic project, and an experiment in “AI-Native” game design, Sun and colleagues have documented *1001 Nights*’ conceptual development, AI workflow and technical implementation across two [academic papers](#resources).
+- **Insight**
+  As a continuation of an academic project, and an experiment in “AI-Native” game design, Sun and colleagues have documented *1001 Nights*’ conceptual development, AI workflow and technical implementation across two [academic papers](#resources).
 
 - **Public transparency**
-: The *1001 Nights* store page on Steam has an extensive AI content disclosure statement. The developers also invite players to share “any concerns, suggestions, or questions about our AI-generated content and processes” to “help us improve and become more considerate”.
+  The *1001 Nights* store page on Steam has an extensive AI content disclosure statement. The developers also invite players to share “any concerns, suggestions, or questions about our AI-generated content and processes” to “help us improve and become more considerate”.
 
 - **Independent creation**
-: *1001 Nights* is an example of UK-based creators leveraging AI technologies to pursue new storytelling ideas, formats and concepts.
+  *1001 Nights* is an example of UK-based creators leveraging AI technologies to pursue new storytelling ideas, formats and concepts.
 
 ## Resources
 

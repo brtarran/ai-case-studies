@@ -66,13 +66,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-: Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
+  Deep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.
 
 - **Insight**
-: Deep Fusion has been open about its use of AI and has shared insights into its processes and approaches, contributing to a broader understanding of the technology's potential and challenges. It also recently published its own white paper on the use of AI in the screen industries, which features an ethical AI checklist for producers (see [Resources](#resources) section).
+  Deep Fusion has been open about its use of AI and has shared insights into its processes and approaches, contributing to a broader understanding of the technology's potential and challenges. It also recently published its own white paper on the use of AI in the screen industries, which features an ethical AI checklist for producers (see [Resources](#resources) section).
 
 - **Independent creation**
-: Deep Fusion's story is part of an emerging theme. Creators are trying to use existing AI products and solutions but finding them wanting for creative tasks in the CoSTAR sectors. By building their own tooling and infrastructure, companies like Deep Fusion are enabling new workflows for themselves, and maintaining control over the use of the technology.
+  Deep Fusion's story is part of an emerging theme. Creators are trying to use existing AI products and solutions but finding them wanting for creative tasks in the CoSTAR sectors. By building their own tooling and infrastructure, companies like Deep Fusion are enabling new workflows for themselves, and maintaining control over the use of the technology.
 
 
 ## Resources
