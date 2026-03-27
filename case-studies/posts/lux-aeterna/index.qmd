@@ -67,13 +67,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-: Lux Aeterna's decision to collaborate with legal experts, and to use those findings to inform their approach to generative AI in final productions, is an example of the informed, precautionary approach the roadmap advocates. The team have distinguished between what can be achieved in experimentation and what is appropriate for production.
+  Lux Aeterna's decision to collaborate with legal experts, and to use those findings to inform their approach to generative AI in final productions, is an example of the informed, precautionary approach the roadmap advocates. The team have distinguished between what can be achieved in experimentation and what is appropriate for production.
 
 - **Public transparency**
-: James Pollock’s ongoing tech blog (see [Resources](#resources) section) documents the studio’s explorations openly and critically, sharing both what works and what does not. The studio is also deliberate about how it describes its AI use publicly, wary of overclaiming in a space where reputational risks are real. 
+  James Pollock’s ongoing tech blog (see [Resources](#resources) section) documents the studio’s explorations openly and critically, sharing both what works and what does not. The studio is also deliberate about how it describes its AI use publicly, wary of overclaiming in a space where reputational risks are real. 
 
 - **Sector adaptation**
-: The team's adoption and exploration of new technologies, not just AI, shows how UK VFX studios can build repeatable, transferable workflows from them. Creating the space to explore and innovate outside of production constraints can position companies to offer clients genuinely novel solutions as techniques and technologies mature.
+  The team's adoption and exploration of new technologies, not just AI, shows how UK VFX studios can build repeatable, transferable workflows from them. Creating the space to explore and innovate outside of production constraints can position companies to offer clients genuinely novel solutions as techniques and technologies mature.
 
 ## Resources
 

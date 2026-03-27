@@ -59,13 +59,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Rights**  
-: Screenburn is designed so that AI is walled off from user content. Nor is AI used to create content directly, instead guiding users to write their own stories while using examples of character or plot developments drawn from existing sources.  
+  Screenburn is designed so that AI is walled off from user content. Nor is AI used to create content directly, instead guiding users to write their own stories while using examples of character or plot developments drawn from existing sources.  
     
 - **Skills**  
-: Metrotone’s experience of using AI coding assistants to develop Screenburn from internal tool to product demonstrates a potential benefit of building AI skills within the screen sector: allowing creative professionals to design custom solutions for specific use cases within creative workflows.   
+  Metrotone’s experience of using AI coding assistants to develop Screenburn from internal tool to product demonstrates a potential benefit of building AI skills within the screen sector: allowing creative professionals to design custom solutions for specific use cases within creative workflows.   
     
 - **Independent creation**  
-: The Screenburn approach positions AI as an assistant within a creative process that remains driven by human ideas and imagination. The role of AI is to augment the capabilities of a writer and allow them to sharpen and adapt their ideas to new formats.
+  The Screenburn approach positions AI as an assistant within a creative process that remains driven by human ideas and imagination. The role of AI is to augment the capabilities of a writer and allow them to sharpen and adapt their ideas to new formats.
 
 ## Resources
 - [Metrotone Media](https://metrotonemedia.com/)

@@ -32,13 +32,13 @@ A woman holds Camera Intelligence’s 2nd generation Caira camera, copyright Cam
 Camera Intelligence uses a variety of AI models within their products. This includes large language models (LLMs) for understanding of user input, agentic systems for controlling the camera, computational photography for more traditional control of photographic parameters, and cloud-hosted models for image and video generation.
 
 - **LLMs** 
-: The team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example, users might ask the camera to “take a photo in five seconds”; iterate on an idea by saying “add a little more contrast”; or make complex requests such as “make it look like Kodak Vision”.
+  : The team have integrated an LLM that runs directly on the camera hardware, enabling users to interact with the device through natural language. For example, users might ask the camera to “take a photo in five seconds”; iterate on an idea by saying “add a little more contrast”; or make complex requests such as “make it look like Kodak Vision”.
 
 - **Generative editing** 
-: The product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana -- for example, removing unwanted elements from a scene using simple voice prompts.
+  : The product also integrates into cloud-based generative models to enable editing of images using Google’s Nano Banana -- for example, removing unwanted elements from a scene using simple voice prompts.
 
 - **Agentic workflows** 
-: Camera Intelligence looks to move beyond simple command and response to more complex capabilities. As co-founder Vishal Kumar explains: “You might be able to push this edit button ... it will remove filler words, it will add subtitles, and it will do a little bit of colour grading depending on your style. And in ... 2 minutes ... you’ll get a file back that’s ... in a pretty good place.”
+  : Camera Intelligence looks to move beyond simple command and response to more complex capabilities. As co-founder Vishal Kumar explains: “You might be able to push this edit button ... it will remove filler words, it will add subtitles, and it will do a little bit of colour grading depending on your style. And in ... 2 minutes ... you’ll get a file back that’s ... in a pretty good place.”
 
 ::: {.column-body}
 ::: {.pullquote-container}
@@ -66,19 +66,19 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Carbon**
-: Caira uses on-device models where practical, minimising the impact of relying on cloud compute for inference (understanding and generation).
+  Caira uses on-device models where practical, minimising the impact of relying on cloud compute for inference (understanding and generation).
 
 - **Responsible AI**
-: Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools. "The solution," says Kumar, "is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kinds of complicated editing tools."
+  Camera Intelligence’s product came from friction that the founder experienced creating content using traditional tools. "The solution," says Kumar, "is to make capture devices and editing devices easier and to use agentic capabilities to offload the time-consuming editing so that the human, the spokesperson for the brand, for the story, for the vision, is kind of liberated from these kinds of complicated editing tools."
 
 - **Investment**
-: Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5 million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
+  Camera Intelligence’s products were initially supported by Kickstarter investors. They have recently secured £1.5 million in seed funding (September 2025) from Betaworks, Next Wave, 7pc Ventures, and Digital Catapult.
 
 - **Sector adaptation**
-: The team’s main focus on the "prosumer" and independent creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
+  The team’s main focus on the "prosumer" and independent creator market comes from a desire to enable creators to focus on the content and messaging for brands, individuals, or storytelling.
 
 - **Public transparency**
-: The product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see [Resources](#resources) section).
+  The product website has details about their integration of AI models and systems. The team have been vocal in their discussion of the challenges and opportunities AI technologies create (see [Resources](#resources) section).
 
 
 ## Resources

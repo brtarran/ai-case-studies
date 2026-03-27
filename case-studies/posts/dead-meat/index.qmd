@@ -61,16 +61,16 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 
 #### How this case study aligns with the roadmap
 - **Carbon**
-: Switching from using large language models in the cloud to a small language model that runs on-device can be a positive step towards carbon minimisation, as it avoids the cost and energy use associated with LLM inference and cloud compute.
+  Switching from using large language models in the cloud to a small language model that runs on-device can be a positive step towards carbon minimisation, as it avoids the cost and energy use associated with LLM inference and cloud compute.
  
 - **Responsible AI**
-: Meaning Machine’s partnership with Nvidia demonstrates the sort of cross-discipline collaboration that will help deliver responsible AI for the screen sector. The partnership between AI developer and game designer has resulted in an AI solution tailored to the needs of a specific game experience.
+  Meaning Machine’s partnership with Nvidia demonstrates the sort of cross-discipline collaboration that will help deliver responsible AI for the screen sector. The partnership between AI developer and game designer has resulted in an AI solution tailored to the needs of a specific game experience.
 
 - **Investment**
-: Meaning Machine’s AI innovations have been supported by funding from the [MyWorld](https://www.myworld-creates.com/) programme, illustrating one way in which investment drives the emergence of new creative technologies and new creative technology businesses.
+  Meaning Machine’s AI innovations have been supported by funding from the [MyWorld](https://www.myworld-creates.com/) programme, illustrating one way in which investment drives the emergence of new creative technologies and new creative technology businesses.
 
 - **Independent creation**
-: *Dead Meat* is an example of UK creators leveraging AI technologies to pursue new storytelling ideas, formats and concepts. 
+  *Dead Meat* is an example of UK creators leveraging AI technologies to pursue new storytelling ideas, formats and concepts. 
 
 ## Resources
 
