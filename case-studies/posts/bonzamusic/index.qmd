@@ -60,13 +60,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
   : Bonza’s explicit framing of AI as an assistive rather than generative technology reflects the responsible innovation principles at the heart of the roadmap. The company has chosen a narrow, well-defined application of AI in acoustic data extrapolation, where the benefits are clear and the risks are minimal, rather than incorporating more risky AI applications.
 
 - **Investment**
-  The BridgeAI programme and the University of York partnership provided the research infrastructure that made Bonza’s AI development possible. This illustrates how targeted public investment in AI R&D can enable smaller creative technology companies to solve hard technical problems that would otherwise be out of reach. The team have also benefitted from the use of CoSTAR Live Lab’s audio space within Production Park, near Wakefield.
+  : The BridgeAI programme and the University of York partnership provided the research infrastructure that made Bonza’s AI development possible. This illustrates how targeted public investment in AI R&D can enable smaller creative technology companies to solve hard technical problems that would otherwise be out of reach. The team have also benefitted from the use of CoSTAR Live Lab’s audio space within Production Park, near Wakefield.
 
 - **Independent creation**
-  Bonza aims to empower independent musicians, educators, and small performing arts groups to collaborate without being physically co-located. By removing the latency barrier that previously made real-time remote performance impractical, the platform opens up new possibilities for creative collaboration across geography, and reduces the economic and logistical costs of getting creative people in the same room.
+  : Bonza aims to empower independent musicians, educators, and small performing arts groups to collaborate without being physically co-located. By removing the latency barrier that previously made real-time remote performance impractical, the platform opens up new possibilities for creative collaboration across geography, and reduces the economic and logistical costs of getting creative people in the same room.
 
 - **Sector adaptation**
-  Bonza’s work demonstrates how a combination of audio engineering innovation and targeted AI application can create new infrastructure for the creative industries. The platform has potential applications beyond music, including script read-throughs for theatre and animation, pointing to broader adaptations in how the performing arts sector might work in a hybrid world. 
+  : Bonza’s work demonstrates how a combination of audio engineering innovation and targeted AI application can create new infrastructure for the creative industries. The platform has potential applications beyond music, including script read-throughs for theatre and animation, pointing to broader adaptations in how the performing arts sector might work in a hybrid world. 
 
 ## Resources
 - [Bonza](https://bonzamusic.com)

@@ -42,13 +42,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-  SuperScout’s decision to test and reject models that produced culturally biased outputs, choosing accuracy over convenience, is a practical example of responsible model selection.
+  : SuperScout’s decision to test and reject models that produced culturally biased outputs, choosing accuracy over convenience, is a practical example of responsible model selection.
 
 - **Investment**
-  The company has been supported by investment through the [MyWorld](https://www.myworld-creates.com/) programme, which funded development of the iOS app to bring the SuperScout workflow into the field. The company has had a variety of funding sources and is currently exploring longer-term funding.
+  : The company has been supported by investment through the [MyWorld](https://www.myworld-creates.com/) programme, which funded development of the iOS app to bring the SuperScout workflow into the field. The company has had a variety of funding sources and is currently exploring longer-term funding.
 
 - **Sector adaptation**
-  SuperScout addresses a long-standing infrastructure gap. The reliance on Dropbox and photography portfolio sites across productions at every budget level represents exactly the friction that well-targeted technology can remove. Traction with film offices and heritage organisations points toward a potential role as shared infrastructure for location data in the UK screen sector, created by a UK team.
+  : SuperScout addresses a long-standing infrastructure gap. The reliance on Dropbox and photography portfolio sites across productions at every budget level represents exactly the friction that well-targeted technology can remove. Traction with film offices and heritage organisations points toward a potential role as shared infrastructure for location data in the UK screen sector, created by a UK team.
 
 ## Resources
 
