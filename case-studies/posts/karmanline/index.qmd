@@ -57,13 +57,13 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-  In building out its platform, Karmanline is looking to embed the concept of a “Free Space” and a “Pro Space”: the former for early-stage ideation, where choice of AI model may have least risk attached to it; the latter for when new creative assets and IP are being realised, governance and risk management processes kick in, and producers require a clean chain of title and verifiable audit trail.
+  : In building out its platform, Karmanline is looking to embed the concept of a “Free Space” and a “Pro Space”: the former for early-stage ideation, where choice of AI model may have least risk attached to it; the latter for when new creative assets and IP are being realised, governance and risk management processes kick in, and producers require a clean chain of title and verifiable audit trail.
 
 - **Insight**
-  As part of its mapping of creative and AI tools available to film and TV productions, Karmanline has produced and published (under Creative Commons license) [a table of more than 300 products](https://www.karmanline.uk/production-software), describing the main use cases of each product, their input and output modes, and whether they train on user data. The CoSTAR Foresight Lab has also published its own framework of [advanced machine learning tools used in film production](https://smiling-maple-b00.notion.site/15ee496f0faa806ea9e8eb41c5cccc69?v=15ee496f0faa81a782c6000c883e1140), organised by production phase. 
+  : As part of its mapping of creative and AI tools available to film and TV productions, Karmanline has produced and published (under Creative Commons license) [a table of more than 300 products](https://www.karmanline.uk/production-software), describing the main use cases of each product, their input and output modes, and whether they train on user data. The CoSTAR Foresight Lab has also published its own framework of [advanced machine learning tools used in film production](https://smiling-maple-b00.notion.site/15ee496f0faa806ea9e8eb41c5cccc69?v=15ee496f0faa81a782c6000c883e1140), organised by production phase. 
 
 - **Sector adaptation**
-  Carter sees the coordination of information and workflows across creative and business processes as “imperative” given budgetary pressures linked to cost inflation. “When you're producing a TV show or a movie," he says "there's a whole bunch of tasks across production, execution, finance, administration and marketing. Those tasks need to be done however you're producing the content. But the opportunity of AI tools is that those tasks can be coordinated.” 
+  : Carter sees the coordination of information and workflows across creative and business processes as “imperative” given budgetary pressures linked to cost inflation. “When you're producing a TV show or a movie," he says "there's a whole bunch of tasks across production, execution, finance, administration and marketing. Those tasks need to be done however you're producing the content. But the opportunity of AI tools is that those tasks can be coordinated.” 
 
 ## Resources
 - [Karmanline](https://www.karmanline.uk/)

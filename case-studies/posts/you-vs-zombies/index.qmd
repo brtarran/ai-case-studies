@@ -64,14 +64,14 @@ Quote from Lee Cummings, co-founder, 10six Games. Image shows screenshot from YO
 Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
 
 #### How this case study aligns with the roadmap
-* **Responsible AI**  
-  For *YOU Vs. Zombies*, 10six is blending human creativity with AI model capabilities. The studio’s creative team provides the gameplay, art design, and story systems, and generative AI models operate within these frameworks to customise game elements in response to player input.  
+- **Responsible AI**  
+  : For *YOU Vs. Zombies*, 10six is blending human creativity with AI model capabilities. The studio’s creative team provides the gameplay, art design, and story systems, and generative AI models operate within these frameworks to customise game elements in response to player input.  
     
-* **Insight**  
-  In January 2026, at Pocket Gamer London Connects, Susan Cummings presented to industry on the architecture 10six has developed to enable player personalisation and the various safeguards it has put in place.
+- **Insight**  
+  : In January 2026, at Pocket Gamer London Connects, Susan Cummings presented to industry on the architecture 10six has developed to enable player personalisation and the various safeguards it has put in place.
 
-* **Independent creation**  
-  *YOU Vs. Zombies* is an example of UK-based creators leveraging AI technologies to develop new storytelling modes and gameplay experiences.
+- **Independent creation**  
+  : *YOU Vs. Zombies* is an example of UK-based creators leveraging AI technologies to develop new storytelling modes and gameplay experiences.
 
 ## Resources
 - [YOU vs. Zombies \- Roguelike Zombie Survival Game](https://10sixgames.com/)

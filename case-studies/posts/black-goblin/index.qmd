@@ -63,10 +63,10 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 #### How this case study aligns with the roadmap
 
 - **Responsible AI**
-  Black Goblin’s focus changed from generating audio to marking up spotting sessions after engaging in user research. The users of their tool, currently in beta, are informed where in the pipeline AI models are being used.
+  : Black Goblin’s focus changed from generating audio to marking up spotting sessions after engaging in user research. The users of their tool, currently in beta, are informed where in the pipeline AI models are being used.
 
 - **Investment**
-  The team have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round.
+  : The team have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round.
 
 ## Resources
 
