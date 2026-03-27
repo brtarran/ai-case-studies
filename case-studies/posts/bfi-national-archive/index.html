@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-e9da6227bf37eca424d79c4b5985a326.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-a7a144fff41d8dd5fd94b558b96102a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -191,9 +191,24 @@ Note
 <p>The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.</p>
 <p>The experiments focus on three areas:</p>
 <ul>
-<li><p><strong>Speech-to-text</strong> Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.</p></li>
-<li><p><strong>Named entity recognition (NER) and wikification</strong> Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.</p></li>
-<li><p><strong>Video understanding and description</strong> Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.</p></li>
+<li><dl>
+<dt><strong>Speech-to-text</strong></dt>
+<dd>
+Testing OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.
+</dd>
+</dl></li>
+<li><dl>
+<dt><strong>Named entity recognition (NER) and wikification</strong></dt>
+<dd>
+Using spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.
+</dd>
+</dl></li>
+<li><dl>
+<dt><strong>Video understanding and description</strong></dt>
+<dd>
+Experimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.
+</dd>
+</dl></li>
 </ul>
 <div class="column-body">
 <p><img src="images/inside-bfi-national-archive-stacks-reels.jpg" class="img-fluid" alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."></p>
@@ -208,8 +223,18 @@ Note
 <section id="how-this-case-study-aligns-with-the-roadmap" class="level4">
 <h4 class="anchored" data-anchor-id="how-this-case-study-aligns-with-the-roadmap">How this case study aligns with the roadmap</h4>
 <ul>
-<li><p><strong>Responsible AI</strong> The BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.</p></li>
-<li><p><strong>Sector adaptation</strong> AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.</p></li>
+<li><dl>
+<dt><strong>Responsible AI</strong></dt>
+<dd>
+The BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.
+</dd>
+</dl></li>
+<li><dl>
+<dt><strong>Sector adaptation</strong></dt>
+<dd>
+AI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits.
+</dd>
+</dl></li>
 </ul>
 </section>
 </section>
