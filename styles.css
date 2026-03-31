@@ -324,10 +324,10 @@ body:not(.floating) .nav-footer {
   padding-top: 0.8em;
 }
 
-.nav-footer a {
+.nav-footer a, .nav-footer p {
   color: white;
 }
 
-.nav-footer a:hover {
+.nav-footer a:hover, .nav-footer p:hover {
   color: #ff9e0a;
 }
