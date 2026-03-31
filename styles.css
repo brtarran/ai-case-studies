@@ -15,6 +15,13 @@
   padding: 1rem;
 }
 
+@media (max-width: 575.98px) {
+  .navbar-logo {
+    max-height: 55px;
+    padding: 0.5rem;
+  }
+}
+
 .navbar-title {
   color: white;
   font-weight: 500;
